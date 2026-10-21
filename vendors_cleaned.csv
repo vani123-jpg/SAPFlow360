@@ -1,0 +1,2591 @@
+lifnr,name1,land1,ort01
+0000001111,Suppliers Inc.,US,NILES
+0000003920,Pyramid Systems,US,SANTA CLARA
+0000003411,Delta Steel Inc.,US,HOUSTON
+0000003020,World Wide Computer Warehouse,US,SAN JOSE
+AVPL,American Vice President Line,US,Oakland
+0000100560,Infix Co.,US,San Diego
+0000100024,Linda Smythe,PA,Provincia de Panamá
+0000100010,Linda Smythe,US,HINCKLEY
+SMIVENDOR,SMIVENDOR,US,WICHITA
+S101,Software Development  and Consultin,US,MARLBORO
+S102,International Software Consulting,US,TAMPA
+SMI-SUP-A,SMI Supplier A,US,WICHITA
+IS_VEND3,Shanghai International Port Group,CN,Luchaogang Town
+0000070001,Metro Chrysler Dodge Jeep,CA,Ottawa
+0000000100,C.E.B. BERLIN,DE,Berlin
+0000001000,C.E.B. BERLIN,DE,Berlin
+0000014500,Central Bureau of Narcotics,IN,Gwalior
+0000001102,Top Services GmbH,DE,Kaiserslautern
+0000050999,Spedition Arnolds,DE,Dresden
+0000021900,Lisbon Parts Supply,PT,Lisboa
+0000001001,SKF Kugelmeier KGaA,DE,Schweinfurt
+0000004920,Anda El Eid,AE,Abu Dhabi
+0000003940,Mitch & Collins,ZA,Woodstock
+0000001910,Schumacher AG,DE,Köln
+0000001100,Phunix GmbH,DE,Frankfurt
+0000001920,Versicherungen ABC,DE,Frankfurt
+0000002910,Insurance Perfect Ltd.,GB,"Bathgate, West Lothian, EH48 2EH"
+0000002920,Tax Office,GB,London TW45 3EY
+0000022211,PULSA,DE,Nörten-Hardenberg
+0000003760,Flavia,DE,Berlin
+0000003761,Hi-Way Hi-Fi,DE,München
+0000003762,Lyreco,DE,Hamburg
+0000055500,Conrad Elektronik,DE,Mettingen
+0000033183,Ahrend,DE,Rodenbach
+0000011100,Udo Bär,DE,Kaiserslautern
+0000033300,Kroschke International GmbH,DE,Gammertingen
+0000044400,Farnell,DE,Hagelstadt
+0000008502,Corporate Consumables Ltd,NZ,Auckland
+0000008500,Supplies Group Pty Ltd,AU,North Sydney
+0000001948,Dave Bell Enterprises Pty Ltd,AU,Newport
+0000008501,National Parts Group Pty Ltd,AU,Melbourne
+0000019902,Ajax Gourmet Ltd.,NL,Amsterdam
+0000001099,Studio Chapultepec,GB,
+0000002009,Elco Automotive Ltd.,GB,Middlesex UB3 5EY
+0000003412,AP Steel,GB,Birmingham
+0000003413,Schmidt & Söhne,DE,Dortmund
+0000003414,Ancofer,DE,Mülheim ad Ruhr
+0000003415,Metallexpo,RU,Petersburg
+0000002200,HTG Komponente GmbH,DE,Hannover
+0000004940,R & P Bros,CA,Toronto
+0000001234,K.F.W. Berlin,DE,Berlin
+0000001023,Molkereigenossenschaft Brandenburg,DE,Postdam
+RU-01,"OAO ""Sputnik""",RU,Moscow
+RU-02,"OAO ""Mir""",RU,Sankt-Peterburg
+SCM550-RS,Schmidt-Müller AG,DE,Frankfurt
+0000001925,TransLog GmbH,DE,Stuttgart
+0000001930,Schmalenbach,DE,Frankfurt
+0000001055,Inter-Speed BV,NL,Rotterdam
+SCM550-SP,Schmidt-Müller Transport GmbH,DE,Frankfurt
+SCM550-12,Schmidt-Müller Sachsen GmbH,DE,Dresden
+SCM550-11,Schmidt-Müller Berlin GmbH,DE,Berlin
+SCM550-10,Schmidt-Müller Nord GmbH,DE,Hamburg
+R101,DC R101,DE,Stuttgart
+R100,DC R100,DE,Giessen
+0000100313,Brose International,DE,Mannheim
+0000100408,North Energy Ltd,CA,Calgary
+0000100488,Dave Bell Enterprises Pty Ltd,AU,Newport
+0000100033,Miller Chris,DE,Münster
+0000100373,Industrias Pacificas S.A.,MX,Colonia Chapultepec Morales
+0000001002,Müller KG,DE,Rosenheim
+CH-4000,Inovation SA,CH,Lausanne
+CH-1000,Fankhauser AG,CH,Solothurn
+CH-3000,Spichiger GmbH,CH,Rotkreuz
+CH-5000,Imobio AG,CH,Ascona
+CH-2000,Bürgi AG,CH,Nänikon
+R1040,Forkmann Werbemittel GmbH,DE,Mainz
+R1000,Unisono AG,DE,Pfungstadt
+R1001,Walter & Schulz GmbH & Co KG,DE,Saarbrücken
+VE4510,SAP Plant - Eastern Canada,CA,Montreal
+0000100073,Proveedor 1,AR,
+0000100208,Proveedor 2,AR,
+0007000015,Reynolds Software,AU,Rockingham
+0007000013,Global Computers,MX,Colonia Valle de las Brisas
+0007000005,Metro Solutions,FR,Paris
+0007000011,Глобал Компьютер,RU,Новосибирск
+0007000012,陕西公司,CN,西安
+0007000007,MetroPolis Corp,GB,London
+0007000009,東光エンタープライズ,JP,品川区
+0007000010,한국 시스템,KR,서울
+0000100049,"COMERCIAL KEYMAN,S.A",MX,COL DEL VALLE
+0000100046,BODEGA DE LLANTAS SA,MX,SAN JOSE INSURGENTES
+0000100045,ASESORIA INDUSTRIAL,MX,JARDIN BALBUENA
+0000100048,"RUDEZ Y CIA, S.A.",MX,COL DEL VALLE
+0000100050,LIFT SOLUTIONS MEX,MX,MIXCOAC
+0000100044,ACEROS Y DERIVADOS,MX,COL. NONOALCO
+0000100052,"PARTES DIGITALES, SA",MX,COL NAPOLES
+0000100047,BODEGA MAC,MX,SANTA CRUZ ACATLAN
+0000100051,DIGITAL EQ. MEXICO,MX,VALLE DEL CAMPESTRE
+0000100043,Fundiciones de hierro y acero,MX,COL. SN.JUAN ARAGON
+0000003910,Infix Corporation,US,FOSTER CITY
+ARAMI-00,Aramingo-00,US,Wilmington
+0000007513,Kevin Blair,US,ATLANTA
+0000007518,Michelle Dean,US,ATLANTA
+0000007501,Deborah Woolway,US,ATLANTA
+0000007509,Jack Douglas,US,ATLANTA
+0000007516,Robert Penn,US,ATLANTA
+0000007502,Stephen Powell,US,ATLANTA
+0000007520,Norman Weinberg,US,ATLANTA
+0000007511,Steve Banley,US,ATLANTA
+0000007508,Jennifer Stone,US,ATLANTA
+0000007505,Michael Curtis,US,ATLANTA
+0000007506,Caren Johnson,US,ATLANTA
+0000007524,Barbara Lee,US,ATLANTA
+0000007525,Ryan Reval,US,ATLANTA
+0000007514,Patrick Backett,US,ATLANTA
+0000007519,Matthew Carter,US,ATLANTA
+0000007512,Eduard Sullivan,US,ATLANTA
+0000007500,Jaqueline Humes,US,ATLANTA
+0000007507,Frank Reeve,US,ATLANTA
+0000007515,Theo Linden,US,ATLANTA
+0000007517,Todd Gustafsen,US,ATLANTA
+0000007521,Angela Lucata,US,ATLANTA
+0000007522,Susann Belli,US,ATLANTA
+0000007510,Judie Coltman,US,ATLANTA
+0000007523,Ann Anderson,US,ATLANTA
+0000007503,David Gartner,US,ATLANTA
+0000007504,Sophie Cleveland,US,ATLANTA
+0000003930,TetPak Inc.,US,CHICAGO
+0000003410,Feralloy,US,CHICAGO
+0000030000,IDES US Inc.,US,NEW YORK
+0000002210,HTG Components,US,PHILADELPHIA
+IS_VEND7,Port Authority of NY & NJ,US,ELIZABETH
+IS_CARR6,US East Trucking Company,US,Columbus
+SS_FLEET3,SS Private Fleet 3,US,Boise
+IS_CARR1,Global East Ocean Transport,US,Long Beach
+SS_FLEET2,SS Private Fleet 2,US,Portland
+SS_FLEET1,SS Private Fleet 1,US,Federal Way
+TM_CSL001,Global Cargo Systems,US,Jersey City
+TM_CAR002,National Trucking,US,Trenton
+TM_CAR001,P&G Truck Lines,US,Pittsburgh
+TM_CAR003,Fast Trucking & Logistics,US,Reading
+0000003300,Material Supplier,US,LEXINGTON
+0000003301,Office Supply Company,US,DUBLIN
+0000003302,Utilities Company,US,ST. CLAIRSVILLE
+0000003111,CMDS Supplier,US,DETROIT
+0000003003,World's Best Suppliers,US,WESTCHESTER
+0000000300,AluCast,US,HILLSBOROUGH
+0000001444,C & C Supply,US,CLEVELAND
+0000003990,Plastic Bottle Inc,US,SAINT LOUIS
+0000003018,Fremont Supplies,US,REDWOOD CITY
+0000002316,Cisco,US,SAN JUAN CAPISTRANO
+0000002317,Vendor 3,US,MISSION VIEJO
+0000002315,Lucent,US,MISSION VIEJO
+0000024002,Magnum P.I.,US,BOSTON
+0000024000,"Speedy Couriers, Inc",US,Boston
+0000024001,County Courthouse,US,Boston
+0000003272,ADCOM COMPUTER,US,SEATTLE
+0000003425,ACME Supply Company,US,WALNUT CREEK
+METMININC,Metal Mining Inc,US,Pierre
+0000003200,Stables Office Supply,US,Irving
+MONSANTOBR,MONSANTO DO BRAZIL LTDA,BR,SAO PAULO
+0000010001,Detroit Supplier Inc.,US,DETROIT
+0000006000,Harbinger Online,US,SAN FRANCISCO
+YHTS_VIS,Vishay Corp,US,STAPLETON
+YHTS_NIC,NIC Components Corp,US,PIEDMONT
+YHTS_KEM,Kemet Corp,US,SUMMERDALE
+0000003816,NJ Electronics,US,MANVILLE
+0000003817,MicroElectronics,US,NEWARK
+0000003904,JSS of America,US,ALEXANDRIA
+0000003905,Greenville Manufacturers,US,SPARTANBURG
+0000003819,Tucker Industries,US,TUCKER
+0000003902,SCT Inc.,US,SIOUX CITY
+0000003906,Dynasty,US,COLBY
+0000003903,Elway Industries,US,LAFAYETTE
+0000003900,Gateway Supply,US,LAKEWOOD
+0000001526,Chargeback vendor,US,Norwalk
+0000030190,ABB Transport Company,US,AVENEL
+0000030192,Universal Supply Company,US,BAYONNE
+0000008765,DuFresne's Supply,US,ROCHESTER HILLS
+0000004165,Alexander Inc.,US,WESTON
+0000003980,Main Line Cleaning Services,US,WAYNE
+0000031000,ICST ( InterComp Stock Transfer ),US,CAMP POINT
+0000008373,Armstrong Tool Inc.,US,Lancaster
+0000009006,Sally Thompson,US,OCEAN CITY
+0000009005,Douglas Olson,US,OAK PARK
+0000009004,Carole B,US,HINCKLEY
+S62026,Philis McLane,US,Boston
+0000003803,"Multi-State Brokers, Inc.",US,WHITE PLAINS
+0000007220,Good Vendor,US,MCDADE
+0000060006,Paper Products Company,US,NEWARK
+0000060002,Johnson & Miller Inc.,US,DES MOINES
+0000060003,Parker & Sons,US,DULUTH
+0000060005,Plastic Bottle Company,US,SAINT LOUIS
+0000060007,Cow Chemicals,US,SALT LAKE CITY
+0000060001,Armstrong & Partners,US,SAN DIEGO
+0000060004,Golden Vegetables,US,WASCO
+0000007777,American Express Corporate Services,US,OXFORD
+0000004212,ALT's Autom. Release Vendor,US,DETROIT
+0000003212,Cross Worlds Consulting,US,TROY
+0000003151,Superior Tech. Inc.,US,BOSTON
+0000003150,Get Mobile Inc.,US,DALLAS
+0000003152,LUXITEC Inc.,US,PHOENIX
+0000006100,NETProducts Inc.,US,DETROIT
+SM-VEND2,Parts vendor 1,US,PARK CENTRAL
+SM-VEND4,Parts Vendor 4,US,BONNEAUVILLE
+SM-VEND1,Parts vendor 1,US,OTHELLO
+RSV20,RSV20,US,JONES
+RSV30,RSV30,US,GULF SHORES
+US3720,US3720,US,BAY MINETTE
+SL-SDIEGO,San Diego Harbor,US,San Diego
+SBC_ISTC,ISTC,US,Washington
+FEDEX,FEDEX,US,Marlton
+WB_CAR01,WB_CAR01,US,Long beach
+WB_CAR02,wb_car02,US,Santa Barbara
+TWA-CR-06,Desert Express Lines,US,Phoenix
+TWA-CR-05,ACME Lines,US,Long Beach
+TWA_CR_05,ACME Lines,US,Long Beach
+MM_CARR_B,MM_CARR_B,US,CLAREMONT
+MM_CARR_C,MM_CARR_C,US,CLAREMONT
+MM_CARR_A,MM_CARR_A,US,JACKSONVILLE
+MM_CARR_D,MM_CARR_D,US,JACKSONVILLE
+ECOM-CAR,ECOM Carrier,US,JONES
+CAU304,Green Transport,US,Jersey City
+CAU302,National Trucking,US,Trenton
+CAU301,PGI Truck Lines,US,Pittsburgh
+CAU303,Fast Trucking & Logistics,US,Reading
+OAF-CR-02,SOCAL Shipping Corporation,US,Long Beach
+OAF-CR-06,Desert Express Lines,US,phoenix
+OAF-CR-05,ACME Lines,US,Long Beach
+CEP-CR-02,UPS,US,Trenton
+FM-CR-03,FM-CR-03,US,Jersey City
+FM-CR-01,FM-CR-01,US,HAMILTON
+FM-CR-02,FM-CR-02,US,Reading
+RF-CR-01,Joe's Trucking Inc.,US,Edison
+RF-CR-02,Dallas Rail Company,US,Dallas
+DOT-CR-04,Green Transport,US,Jersey City
+OT-CR-04,Green Transport,US,Jersey City
+DOT-CR-02,National Trucking,US,Trenton
+OT-CR-02,National Trucking,US,Trenton
+DOT-CR-01,PGI Truck Lines,US,Pittsburgh
+OT-CR-01,PGI Truck Lines,US,Pittsburgh
+OT-CR-03,Fast Trucking and Logistics,US,reading
+DOT-CR-03,Fast Trucking and Logistics,US,Reading
+IOT-CR-02,Global Cargo Systems,US,Jersey City
+IOT-CR-01,P&G Truck Lines,US,Pittsburgh
+DOT-CR-20,Rail Express – Chicago to LA,US,CAMP POINT
+TP_PORT_NY,Port New York,US,GREEN ISLAND
+TP_AIR_WI,Airport Wichita,US,WICHITA
+TP_US_L_03,TSP Land Transportation US 03,US,JONES
+TP_US_S_01,TSP Sea Transportation US 01,US,MARBURY
+TP_US_L_01,TSP Land Transportation US 01,US,CHOCCOLOCCO
+TP_TRN_WI,Train Station Wichita,US,Wichita
+TP_US_T_01,TSP Train Transportation US 01,US,BLUE MOUNTAIN
+TM_US_L_03,Carrier Land US 03,US,Boston
+TM_US_L_02,Carrier Land US 02,US,Boston
+TM_US_R_01,Carrier Rail US,US,Washington
+CS_CARR_E,CS_CARR_E,US,Pittsburgh
+CS_CARR_B,CS_CARR_B,US,Claremont
+CS_CARR_A,CS_CARR_A,US,Jacksonville
+CS_CARR_C,CS_CARR_C,US,Coralville
+CS_CARR_F,CS_CARR_F,US,Dallas
+CS_CARR_D,CS_CARR_D,US,Phoenix
+0000001472,MG Trucking,US,FORT LAUDERDALE
+CSL_8901,Acme Trucking Inc.,US,CHICAGO
+CSL_8921,Western United Ltd.,US,Kansas City
+SL5678,Atlantic Trucking Inc.,US,Elizabeth
+0000060008,Food Transport Inc.,US,CINCINNATI
+0000060009,Smith & Partners,US,LAS VEGAS
+0000300040,Forrest,US,Antioch
+0000300050,Rosa,US,Antioch
+0000300020,Mobile Mania East Side Store,US,ANTIOCH
+R301,DC R301,US,Denver
+R300,DC R300,US,Los Angeles
+0000100358,Third-Party Agent #1,US,HOUSTON
+FORNBR,Fornecedor Brasil,BR,SAO PAULO
+FORN00-26,Fornecedor WT - Acumulado,BR,São Paulo
+FORN00-30,Fornecedor São Paulo,BR,São Paulo
+FORN00-06,Fornecedor Impostos retidos II,BR,Sao Paulo
+FORN00-32,Fornecedor Exceção Ltda,BR,São Paulo
+FORN00-07,Fornecedor Impostos Retidos III,BR,Rio de Janeiro
+FORN00-33,Fornecedor Exceção II,BR,Rio de Janeiro
+FORN00-34,Mineirinho Ltda,BR,Belo Horizonte
+FORN00-31,Cia Paranaense LTDA,BR,Curitiba
+FORN00-08,Caxiense Transportes Urbanos LTDA,BR,Caxias do Sul
+FORN00-22,Fornecedor Nacional / Banco Itau,BR,SAO PAULO
+FORN00-21,Fornecedor Nacional / Banco Itau,BR,SAO PAULO
+FORN00-20,Fornecedor Nacional / Bradesco,BR,SAO PAULO
+FORN00-24,Forn Nacional / IRRF pessoa Juríd.,BR,SAO PAULO
+FORN00-05,Fornecedor Impostos Retidos 00,BR,Sao Paulo
+FORN00-25,Fornecedor EDI Bancário 00,BR,SAO PAULO
+FORN00-04,Paulista Group,BR,Sao Paulo
+SP00-FOR,SAP Brasil - Filial São Paulo,BR,SAO PAULO
+FORN00-02,Fornecedor Pessoa Fisica,BR,Sao Paulo
+TRANS00-01,Transportadora Caxias,BR,Sao Paulo
+FORN-7000,Centro São Paulo,BR,São Paulo
+FORN00-03,Fornecedor não industrial,BR,Porto Alegre
+FORN00-01,Fornecedor Referencia POA,BR,Porto Alegre
+0000200065,Sus Picious,US,PIGEON CREEK
+0000200035,UAW,US,DETROIT
+0000200018,State of New Jersey,US,PARSIPPANY
+0000200014,Inversiones Mexicanas,US,DALLAS
+0000200015,Centauro,US,DALLAS
+0000200019,State of Massachuesetts,US,BOSTON
+0000200010,Great Lakes HMO,US,DETROIT
+0000200021,State of Ohio,US,TOLEDO
+0000200003,Canada Life,US,TORONTO
+0000200009,Hewitt Associates,US,MINNEAPOLIS
+0000100279,Kelly Jameson,US,San Francisco
+0000100278,Jameson,US,San Francisco
+0000100173,Washington Realty Corporation,US,DAPHNE
+0000100298,Emerging Suppliers,US,palo alto
+0000100155,Packaging International,US,AURORA
+0000100154,Caps Inc,US,SAINT LOUIS
+0000100133,Mark Freeman,US,ANTIOCH
+0000100143,Adam Richardson,US,IRVING
+0000100084,Mr Michael Hire,US,Scituate
+0000100103,Ms Samantha Tilman,US,STATEN ISLAND
+0000100093,Jennifer Esposito,US,STATEN ISLAND
+0000100102,Ms Kelly King,US,STATEN ISLAND
+0000100092,Jerry Wagner,US,MOUNT PLEASANT
+0000100098,Jordan Standford,US,HARTSVILLE
+0000100100,Bob Wolfe,US,IVYLAND
+0000100099,Linda Stevens,US,IVYLAND
+0000100089,Matthew Black,US,DREXEL HILL
+0000100101,Mr David Roberts,US,DREXEL HILL
+0000100105,Gregory Maddux,US,DULUTH
+0000100104,Mrs Ethel Palm-Ethel Ballman,US,Kennesaw
+0000100097,Debbie Davis,US,TINLEY PARK
+0000100094,Mark Taylor,US,IRVINE
+0000100183,George Harvey,US,Newport Beach
+0000100178,Gerry Harve,US,NEWPORT BEACH
+0000100218,Amanda Winters,US,FORT MORGAN
+0000100023,John Smith,PH,Manila
+0000100026,Douglas Olson,US,OAK PARK
+0000100027,Frank Abbott,US,IRVINE
+0000100213,ABC real estate inc,US,Seattle
+0000100435,SCI Customer 03,BR,Rio de Janeiro
+0000100248,IDES Tool and Die,US,Cincinnati
+0000100012,Douglas Olson,US,OAK PARK
+0000100008,John Smith,US,HINCKLEY
+0000100009,Frank Abbott,US,IRVINE
+0000100198,Joe Flathers,US,Scituate
+0000100197,David Lee,US,Scituate
+0000100195,Daniel Voss,US,Scituate
+0000100196,Susan Parker,US,Scituate
+0000100194,Chris Winter,US,Bala Cynwyd
+0000100193,Frank Bake,US,Cheltenham
+0000100423,42302,US,Cupertino
+0000100469,CUSTOMER BRAZIL LTD,BR,Sao Paulo
+0000100468,SAJID MUHAMMAD,BR,Sao Paulo
+0000100204,Bob Abe,US,Lexington
+0000100203,Alan Aguilar,US,Waltham
+0000100205,Shirley Anderson,US,Waltham
+0000100108,Jo Procter,US,
+0000100110,Steve Waters,US,Wayne
+0000100112,Susan Menson,US,WAYNE
+0000100117,Carol Higgins,US,BELLEAIR
+0000100118,John McCormick,US,Saint Louis
+0000100125,Rick McDowell,US,Saint Louis
+0000100120,Marvin Smith,US,Dallas
+0000100119,Maggie Hurley,US,Dallas
+0000100123,Darryl Gibbons,US,Dallas
+0000100124,John Throw,US,Dallas
+0000100122,Mike Sanders,US,Dallas
+0000100121,Bill Grace,US,
+0000100060,Sunni Patel,US,CHERRY HILL
+0000100059,Tom Howard,US,NEW HOPE
+0000100062,Lorna Flannigan,US,WARRINGTON
+0000100067,Zoe Sutherland,US,WOXALL
+0000100061,Dave Rodriguez,US,BRISTOL
+0000100058,Jennifer Green,US,BENSALEM
+0000100066,Scott Gibson,US,FLOURTOWN
+0000100065,Christina Daniels,US,NEWARK
+0000100366,IT Ware Ltd.,US,Boston
+0000100363,Barlow & Son,US,Boston
+0000000424,Sedona Suppliers,US,RIMROCK
+TP_US_SUP1,Unknown,US,MOSCA
+TP_US_SUP2,Unknown,US,SMOKY HILL
+LANCO,ANCO Technology,US,HIGHLAND LAKE
+PRCL,Purva Revira Commertial Ltd,US,WEST BLOCTON
+SANSAR,SANSAR COM.LTD,US,FOLEY
+INTEEK,INTEEK International,US,AUTAUGAVILLE
+SIMBA,SIMBA TRADING,US,HOBSON CITY
+ALEGHENY,Manufacturer Alegheny Ludlum Steel,US,PITTSBURGH
+LUKENS,Manufacturer Lukens Steel Corp.,US,COATESVILLE
+VALENCIA,Manufacturer Valencia Foundry,US,VALENCIA
+REYNOLDS,Manufacturer Reynolds Metals,US,RICHMOND
+HT-V2011-2,Western Digital,US,Irvine
+HT-V2011-1,Seagate Technology,US,Cupertino
+US-VEND3,Supplier - Three,US,CLEVELAND
+US-VEND4,Supplier - Four,US,KANSAS CITY
+US-VEND1,Supplier - One,US,NEW ORLEANS
+TP-VEND1,US Detergent Co.,US,NEW ORLEANS
+TP-VEND2,US Chemical - Dallas,US,DALLAS
+VEN-99,Contra Pak,US,MEMPHIS
+VEN-00,Contra Pak,US,MEMPHIS
+VE3700,PLant3700,US,Orlando
+VE3400,Plant 3400,US,Seattle
+EXTERN_US,External vendor USA,US,Beverly Hills
+HOTDOGS,Hot Dogs Inc.,US,ALEXANDRIA
+WRS-VENDB,Wayne Best Vendor B,US,Elgin
+WRS-VENDA,Wayne best vendor,US,Elgin
+BLEVINS,Blevins Consulting,US,SOUTH RIDING
+CIRCUITS,Circuits Consulting,US,SOUTH RIDING
+DOWNEY INC,Downey Consulting,US,SOUTH RIDING
+SU31,US Vendor 31,US,New Orleans
+SU33,US Vendor 33,US,Cleveland
+SU34,US Vendor 34,US,Kansas City
+UT-SUPPLY,Utilities Supply,US,Newtown Square
+FOCUS,Focus Inc,US,SOUTH RIDING
+NTE,National Transportation Exchange,US,DOWNERS GROVE
+S201,PA Court of Common Pleas,US,BALA CYNWYD
+TI-VEN2,PackM Inc.,US,WESTCHESTER
+EWM_3001,Flowrate Corp,US,BROOKLYN
+EWM_3003,World's Best Suppliers,US,WESTCHESTER
+NALA-3001,Televista Inc.,US,Houston
+SUPPL02,Supplier 02,US,DELAWARE
+SUPPL03,Supplier 03,US,BERKELEY
+SUPPL01,Supplier 01,US,WESTCHESTER
+TP-VEND3,TP_VEND3,US,DALLAS
+SMIORGAVEN,SMIORGAVEN,US,WICHITA
+SMIV200801,IC Electronics,US,San Antonio
+SMIV200448,IC Electronics,US,San Antonio
+SMI-SUP1,SMI Supplier,US,SAN ANTONIO
+CPF4,DC Elizabethtown,US,ELIZABETHTOWN
+CPF2,Plant Park City,US,PARK CITY
+CPF3,DC Henderson,US,HENDERSON
+CPF1,Plant Oxnard,US,OXNARD
+SU01,Supplier SU01,US,WESTCHESTER
+SU02,Supplier SU02,US,Delaware
+SU211,Supplier 01,US,WESTCHESTER
+SU03,Supplier SU03,US,BERKELEY
+PV4514,Plant 4514 Vendor,US,Fort Worth
+TP-MMCARB,Worldwide Transportation Services,US,CORNWALL
+TP-CARD,TPVS Carrier D,US,AMBLER
+TP-MMCARC,Speedy Transportation Services,US,NEWTOWN SQUARE
+TP-MMCARA,Global Transportation,US,CLEVELAND
+TP-CARB,TPVS Carrier B,US,GREEN BAY
+YELLOW_FRT,"Yellow Freight Systems, Inc",US,OVERLAND PARK
+TP-CARA,TPVS Carrier A,US,BETHEL HEIGHTS
+FCC,Freight Cost Carrier,US,Memphis
+TP-CAR-LTL,LTL Carrier,US,Overland Park
+0005000001,Licensing Corp,US,ALEXANDRIA
+0005000000,Google Inc.,US,MOUNTAIN VIEW
+TPU100,3PU100,US,MARBURY
+SA108,Supplier 108 LLC,US,AUTAUGAVILLE
+TPA100,3PA100,CN,LILLIAN
+SL108,Supplier 108 LLC,US,BILLINGSLEY
+SE108,Supplier 108 GmBH,AR,MARBURY
+TPE100,3PE100,DE,
+SE08,Supplier 108 GmBH,US,PIEDMONT
+SMI-SUP2,SMI Supplier 2,US,Brownsville
+SMI-SUP,SMI Supplier,US,Brownsville
+0000100259,Recupel,BE,
+0000100303,EPSC,CA,
+0000100289,REA Pack. Sustain. Reporting,US,
+0000100304,RBRC,CA,
+0000100288,Rigid Plastic Packaging Container,US,
+0000100293,Blue Box Ontario,CA,
+0000100253,ERA Elektro Recycling Austria GmbH,AT,Wien
+0000100254,Altstoff Recycling Austria,AT,WienWien
+0000100258,BEBAT,BE,St. Stevens Woluwe
+0000100354,REPA,SE,Stockholm
+0000100353,Landbell,DE,Mainz
+0000100268,CED,US,Sacramento
+ESP_VEN_05,ESP TSP,ES,Madrid
+ESP_VEN_01,ESP TSP,ES,Tarragona
+ESP_VEN_04,ESP TSP,DE,Munich
+ESP_VEN_02,ESP TSP,ES,Puertollano
+ESP_VEN_07,ESP TSP,ES,Tarragona
+ESP_VEN_03,ESP TSP,IT,Milan
+ESP_VEN_06,ESP TSP,ES,Madrid
+IS_VEND2,Cologne Equipment AG,DE,Cologne
+IS_VEND1,Shanghai Supply Company,CN,Shanghai
+IS_VEND6,Port of Rotterdam Authority,NL,Rotterdam
+IS_CARR4,Europe Trucking Company,DE,Cologne
+IS_CARR5,Global West Ocean Transport,NL,Rotterdam
+TM_CAR005,Ruhr Logistik,DE,Gelsenkirchen
+TM_CAR004,Europa Express,NL,Rozenburgh Zh
+TEST2,Test_Vendor,IN,Pune
+0000098384,Test New,IN,Pune
+0000414831,Gates Engineering,US,Atlanta
+0000244479,gates engineering,US,panama
+0000809006,Industry Intel,US,New Jercy
+0000603500,Watson Pharmaceuticals,NL,Limburg
+0000916521,Newell Rubbermaid Inc.,US,Buffalo
+0000916523,Newell Rubbermaid Inc.,US,Buffalo
+0000468290,Meteorite Manufacturers,US,Capital District
+0000410908,FMC Technologies Inc.,US,Green Bay
+0000719719,Fort Pierce Business,US,Harrisonburg
+0000923560,Ssistrix Industrial Services,US,Missoula
+0000431635,Pumping Products,US,Midland County
+0000671651,Spiritofista Industrial Services,US,Butte
+0000994198,FirstEnergy Corp.,US,Rockford
+0000859011,La Fabrica Systems,US,Casper
+0000428444,Mystevva,US,Boston
+0000623106,Apache Industrial Services,US,Bakersfield
+0000288395,Royal Purple,US,Columbus
+0000318621,Brawler Industries,US,Canton
+0000187413,Industry Venture,US,Topeka
+0000533596,Garden Industrial Heating and Cooli,US,San Diego
+0000482677,Power Prize,US,Hartford
+0000824141,Windsox Industrial Services,US,Bowling Green
+0000420260,Cappaberry,US,Hartford
+0000322847,Middle Atlantic Products Inc,US,Anchorage
+0000434565,First National of Nebraska Inc.,US,Twin Ports
+0000979159,The Manestic Company,US,Tucson
+0000220838,Ford Automotive,US,Baltimore
+0000242891,Team Industrial Services,US,Boise
+0000968993,Marine Industrial Park,US,Bangor
+0000264102,Geisler Company,US,Bay City
+0000143113,ACT Manufacturing Inc.,US,Naples
+0000567536,Industry Forum,US,Memphis
+0000163605,Escotta Industrial Co.,US,Twin Ports
+0000125129,Neroprox Industrial Co.,US,Tallahassee
+0000509185,Insulation Material Industries,US,Jackson
+0000671711,Jacobs Engineering Group Inc.,US,Parkersburg
+0000557630,Herman Miller Inc.,US,Minneapolis
+0000674203,Indowave Industrial Co.,US,New York
+0000293044,Grainger Industrial Supply,US,Harrisonburg
+0000456962,Baseline Industrial Co.,US,San Angelo
+0000755983,Sierra Chemical,US,New Orleans
+0000297191,Industry Institute,US,Salt Lake City
+0000684832,"Administaff, Inc.",US,Mankato
+0000261818,Tergnate industrial,US,Harrisburg
+0000714706,IKON Office Solutions Inc.,US,Springfield
+0000476696,Kinflint industrial,US,Marquette
+0000447487,Tyranex Solution,US,Cleveland
+0000933848,Biomerica,US,Lexington
+0000652269,American Power Conversion Corporati,US,Portland
+0000252004,Engiss industrial,US,Alpena
+0000704529,General Motors Corporation,US,Des Moines
+0000275226,Diversified Manufacturing,US,Austin
+0000365482,Product Power,US,Houston
+0000554308,Juniper Networks Inc.,US,Lexington
+0000903879,Manufacturers Unlimited,US,Houston
+0000816360,Global Gather,US,Charleston
+0000609635,Kellogg Company,US,Victoria
+0000871637,Amerada Hess Corporation,US,Eugene
+0000538712,Derrick Equipment Company,US,Monterey County
+0000429873,Mirage Aircraft Corporation,US,Twin Falls
+0000377378,SmartRoot,FR,Mexico City
+0000068739,Fabrico Manufacturing,KR,Saint Paul
+0000059258,Industry Executive,IN,Liaoning
+0000059363,Sterling Manufacturing,IN,Kohat
+0000097831,Abbott Laboratories,CN,Brummunddal
+0000989898,Sachin Miller Inc.,US,Minneapolis
+0000684899,Krishna.llc,US,Mankato
+0000667027,HIGH OCTANE MANUFACTURING,NL,CHANCAY
+0000184982,Beckett industrial,AT,Palena
+0000174169,Turbotex,ES,Bauchi
+TEST,Supplier to Cymbal,US,
+0000070000,IBM Store,CA,Toronto
+0000001095,Lopez S.A.,MX,Mexico-City
+0000009903,"Neubauer, Friedrich",DE,Hamburg
+0000009901,"Keller, Gerhard",DE,amburg
+0000009902,"Jansen, Jürgen",DE,Hamburg
+0000009910,"Kuhl-Mayer, Henriette",DE,Hamburg
+0000009904,"Maier, Michaela",DE,Frankfurt/M.
+0000009907,"Mannheim, Manfred",DE,rankfurt
+0000009905,"Schmidtrohr, Frank",DE,Frankfurt
+0000009906,"Rickes, Alexander",DE,Frankfurt
+0000009908,"Boss, Hugo",DE,Heidelberg
+0000013373,Simone Roth,DE,Heidelberg
+0000009909,"Miller, Chris",DE,Stuttgart
+DE-002,Ausland Lieferant,AT,Wien
+DE-001,Inland Lieferant,DE,Frankfurt
+0000001098,Productos Argentinos Imp. S.A,AR,Buenos Aires
+0000001935,SLL Cargo Services,DE,Dresden
+0000000025,Metropol,DK,Copenhagen
+0000000008,Jose Fernandez,MX,Mexico City
+0000005307,Japan Computer Parts Corp.,JP,Hokkaido
+0000014600,KB Industries,GB,Burton on Trent
+0000001101,ABC Dienstleistungs GmbH,DE,Mannheim
+0000001103,ISG Innovative Services GmbH,DE,München
+0000001700,Real Estate Company USA,PA,Philadelphia
+0000051000,SAPSOTA AG,DE,Nordenham
+0000004711,Cinsa GmbH & Co. KG,DE,Ravensburg
+0000050000,ICYOU Ltd.,GB,Hall
+0000004930,Hatushiba co.ltd,JP,"chiyodaku,tokyo"
+0000001940,Brain Associates,GB,London TW3 LN2
+0000004910,D. & P. Forbes,CA,"Toronto, Ontario"
+0000003333,Bill Biller,DE,Heidelberg
+0000050010,ICYOU Portugal S.A.,PT,Lisboa
+0000001045,Kreutzschmid KgaA,DE,Leipzig
+0000001075,Tiefland Glass AG,DE,Leipzig
+0000001035,Sommer GmbH,DE,Dessau
+0000052000,Metall Ag,DE,Hamburg
+0000001090,Sanchez S.A.,MX,San Luis Rey
+0000002010,SAPSOTA,DE,Nordenham
+0000002000,Metall-Recycling GmbH,DE,Wuppertal
+0000001040,Hamberger u. CO.,DE,Duiburg
+0000001015,Wollner AG,DE,Aachen
+0000001050,Humpert u. Töchter GmbH,DE,Rosenheim
+0000001025,SEC System SA,FR,Boulogne
+0000001065,Papierwerke Bayland AG,DE,Regensburg
+0000050020,ICYOU LTD.,GB,London
+0000003105,KAGO Schornsteinbau,DE,Berlin
+0000003102,Christian Barth,DE,Berlin
+0000003101,Finanzamt Berlin,DE,Berlin
+0000003103,Werner GmbH & Co.,DE,Berlin
+0000003104,AAB Wurmböck GmbH,DE,Berlin
+0000003106,Städtische Wasserwerke München,DE,Berlin
+0000001014,Herrmann & Riemer,DE,Holzminden
+0000002008,Antoni,IT,Domaso
+0000002007,Morel,FR,Paris
+0000091919,Akim Limited,EG,Cairo
+0000088888,Korean Supplier,KR,Seoul
+0000088889,Korean Automotive Supplier,KR,Seoul
+0000000500,IDES AG New GL - (InterCompany Acco,DE,Berlin
+0000037001,Active Ingredients France,FR,Le Mesnil Saint Denis
+0000037002,Pharma and Co,FR,Nanterre
+0000022222,Genérale de Fonderie,FR,Nantes
+0000005040,山本工務店,JP,江東区
+0000005021,P.S.A. SYSTEMS Corp.,JP,"Chiyoda-ku,Tokyo"
+0000022200,IDES France - Nantes,FR,
+0000005031,鈴木原料株式会社,JP,中央区
+0000005032,小林株式会社,JP,港区
+0000001990,TWX Trading Ltd,TW,Taipei
+0000019901,Shanghai Plastic Specialists Ltd.,CN,Shanghai
+0000009912,Ellen Rilke,DE,Heidelberg
+0000009911,Tom Bender,DE,Heidelberg
+0000009913,Jan Hoffmann,DE,Heidelberg
+0000010089,Auto Color Bulgaria,BG,City
+0000010090,Pneumatici Italia,IT,Milano
+0000010088,Pneu-Tec France,FR,Clermont-Ferrand
+0000020001,TOP Metallverarbeitung GmbH,DE,Stuttgart
+0000020003,High Tech Metall GmbH,DE,Stuttgart
+0000010083,Karl Fischer Motorenwerke,DE,Heilbronn
+0000010084,Carl Stahl Werkzeugbau GmbH,DE,Brackenheim - Botenheim
+0000010098,GUM Company,CA,Halifax
+0000010199,UNITED COLORS,CA,Calgary
+0000020002,Metall Factory Inc.,GB,London
+0000010097,TIRES WORLDWIDE,CA,Toronto
+0000010100,AUTOBODY INTERNATIONAL,CA,Quebec
+0000030002,Vendor from Canada,CA,Quebec
+0000060000,IDES Mexico,MX,Mexico
+0000005004,Lawyer,JP,Tokyo
+0000005003,Asia high tech inc.,JP,Tokyo
+0000005001,Osaka material inc.,JP,osaka
+0000001995,Schneider GmbH,DE,Walldorf
+0000077101,Alchem,IT,Rome
+0000077103,Miller Consulting,GB,York
+0000077105,Agrotec,ES,Madrid
+0000077104,Chemical China,CN,Peking
+0000077106,Petrol Chemicals,KR,Seoul
+0000077107,Leroc SA,FR,Paris
+0000077102,ChemTec,DE,Berlin
+0000000015,Tiedemeier Entsorgung GmbH,DE,Berlin
+0000000075,Meier Logistics GmbH,DE,Berlin
+0000000005,Safety Clean Inc.,DE,New York
+0000000050,Central Logistics Inc.,DE,New York
+0000008888,Sibylle Kneifel,DE,
+0000099991,kneifelinchen Sibylle,AT,Wien
+0000001096,Fabricas Mixtli S.A.,MX,Mexico
+0000001097,Puebla Digital S.A.,MX,
+0000005600,J.H.I. Supplier inc.,JP,Chiyoda-ku
+0000005700,J.P.I. Systems Corp.,JP,Narashino-shi
+0000001550,Stadtwerke Frankfurt,DE,Frankfurt
+0000010275,Heidelberger Druck,DE,HD
+0000009007,Shinozaki Tsutomo,JP,TOKYO-TO
+0000009008,Sugiyama Ichiro,JP,Tokyo
+0000009001,Michaela Meier,DE,Frankfurt/M.
+0000009002,Frank Schmidtrohr,DE,Frankfurt
+0000009003,Chris Miller,DE,Stuttgart
+S61055,Anke Grajetzki,DE,Berlin
+S61047,Siegfried Gräfe,DE,Berlin
+S61045,Reinhardt Grieger,DE,Berlin
+S61053,Harald Hauschildt,DE,Berlin
+S61042,Petra Lummitsch,DE,Berlin
+S61043,Wolfgang Lummitsch,DE,Berlin
+S61041,Bianca Adler,DE,Berlin
+S61040,Heiko Sievers,DE,Berlin
+S61039,Anke Mittelstädt,DE,Hamburg-Curslacker
+S61025,Petra Heger,DE,Hamburg
+S61035,Lars Jucken,DE,Hamburg
+S61022,Anke Jordan,DE,Altengamme
+S61028,Waltraud Horn,DE,Hamburg
+S61036,Wilfried Penner,DE,Hamburg-Alsterdorf
+S61073,Saskia Stöcker,DE,Hannover
+S61062,Torsten Rast,DE,Hannover
+S61065,Max Görtz,DE,Hannover
+S61070,Tanja Gottschleich,DE,Hannover
+FIAT,Fiat,IT,Torino
+BARNBECKJ,Joachim Barnbeck,DE,Walldorf
+S61011,Frederike Sandmann,DE,München
+0000003454,Finanzamt Berlin,DE,Berlin
+0000003455,Wasserwerke Berlin,DE,Berlin
+0000003456,Waermelieferant Berlin,DE,Berlin
+0000003452,Stromlieferant,DE,
+0000003453,Waermelieferant Frankfurt,DE,Frankfurt
+0000003451,Wasserwerke Frankfurt,DE,
+0000003450,Finanzamt Frankfurt,DE,Frankfurt
+0000003457,Clean & Cleaner,DE,Coburg
+0000090210,Thomas,DE,KBH OE
+0000001570,Lenzmann Immobilien Verwaltung GmbH,DE,Frankfurt
+0000091011,Lampen und Deko GmbH,DE,Stuttgart
+0000009000,Anja Müller,DE,Karlsruhe
+0000005005,Office rent inc.,JP,Tokyo
+0000002005,Wilms and Brothers Ltd.,GB,Liverpool EG12 4DR
+0000001991,Schneider AG Deutschland,DE,Frankfurt
+0000001992,IDES UK,GB,London
+0000001994,IDES Canada,CA,Toronto
+0000007776,American Express,DE,
+0000007775,Lufthansa Airplus GmbH,DE,
+0000009923,Alexander Rickes,DE,
+0000001200,Finanzamt Frankfurt,DE,Frankfurt
+0000001235,K.F.W. London,GB,London
+0000009099,AFS-VENDOR,DE,Frankfurt
+GTS_0001,GTS GmbH & Co.KG,DE,Walldorf
+GTS_0002,FRITZ GELOWICZ,DE,Nowhere
+DIT-VN-31,TM-DIT: Vendor 3 / Essen,DE,Essen
+DIT-VN-21,TM-DIT: Vendor 2 / Bamberg,DE,Bamberg
+ELYS,ELYS FACTOR,FR,
+DUPONT,DUPONT,FR,
+ALSI,ALSI,ES,Madrid
+ALTEL,ALTEL,FR,Nice
+PHAR,PHAR,FR,ALENCON
+ALFA,ALFA,FR,Paris
+F2222,Sté 2222,FR,Paris
+F2223,Sté 2223,FR,Paris
+MAZ,MAZ,FR,COURBEVOIE
+DHL,DHL,FR,ROISSY
+FR-001,FOURNISSEUR1,FR,LYON
+JP-TOKYOSP,Tokyo Harbor,JP,Tokyo
+TOKYO,Tokyo,JP,Tokyo
+SL-LIMA-SP,Lima Harbor,PE,LIMA
+SL-TOKYOSP,Tokyo Harbor,JP,Tokyo
+CAR_M2,Mining Ocean Carrier 2,AU,
+SHIPPER_M1,Shipper 01,AU,Melbourne
+CAR_M1,MINING OCEAN CARRIER 1,AU,Melbourne
+KF-VN-02,KF: Vendor 02,DE,Heidelberg
+KF-VN-01,KF: Vendor 01,DE,Stuttgart
+DIT-CR-20,TM-DIT: Carrier 2,DE,Leverkusen
+DIT-CR-10,TM-DIT: Carrier 1,DE,Munich
+CAR-02,National Trucking,US,Trenton
+CAR-01,ALR Express LTd,US,Chicago
+IIL-CR-04,CN Forwarding Agent,CN,
+IIL-CR-03,CN Truck Carrier,CN,
+IIL-CR-02,DE Rail Carrier,DE,Hamburg
+IIL-CR-01,Ocean Carrier,DE,Frankfurt am
+FR-002,LSP TRANSPORTS FRANCE,FR,
+SP33001,Italian Freight Company,IT,
+AF-CR-QF,Oceanic Airways Limited,AU,Mascot
+TWA-CR-QF,Oceanic Airways Limited,AU,Mascot
+TWA-QF-SYD,Oceanic Airways (Australia) Ltd.,AU,Sydney
+AF-QF-SYD,Oceanic Airways (Australia) Ltd.,AU,Sydney
+TWA-CR-03,Uchida Trucking,JP,Tokyo
+AF-QF-NRT,Oceanic Airways (Japan) KK Ltd,JP,Tokyo
+TWA-QF-NRT,Oceanic Airways (Japan) KK Ltd,JP,
+TWA-JL-NRT,Rising Sun Airlines Ltd,JP,TOKYO
+TWA-CR-JL,Rising Sun Airlines Ltd,JP,Tokyo
+AF-JL-NRT,Rising Sun Airlines Ltd.,JP,Tokyo
+AF-CR-JL,Rising Sun Airlines Ltd.,JP,Tokyo
+TWA-CR-04,Ich-Ni Express,JP,Nagoya
+SHUNFENG,顺丰速运,CN,Shen Zhen
+OAF-CR-03,Uchida Trucking,JP,Ota-ku
+OAF-CR-01,EASC - East Asia Shipping Corp,JP,Yokohama
+OAF-CR-04,Ich-Ni Express,JP,Nagoya
+RF-CR-CN,Continental Rail,CA,Montréal
+IOT-CR-03,Europa Express,NL,Rozenberg
+TP_EU_A_01,TSP Air Transportation Europe 01,DE,
+TP_AIR_MX,Airport Mexico DF,MX,Mexico City
+TP_PORT_MX,Port Veracruz-Mexico,MX,Veracruz
+TP_EU_L_03,TSP Land Transportation Europe 03,DE,
+TP_EU_L_02,TSP Land Transportation Europe 02,DE,
+TP_TRN_MX,Train Station Mexico,MX,Mexico City
+TP_EU_L_01,TSP Land Transportation Europe 01,DE,
+TP_PORT_HH,Port Hamburg,DE,Hamburg
+TP_AIR_HH,Airport HH,DE,Hamburg
+TP_EU_S_01,TSP EU Sea Transportation 01,DE,Hanover
+TP_AIR_LON,Airport London,GB,London
+TP_PORT_DO,Port Harwich,GB,Harwich
+D300000,Synchem FI,FI,
+D200000,Chemica IT,IT,Roma
+D100000,Chemical China - OR,GB,
+CSL_9901,Henshu Truck Co. Ltd.,JP,Kyoto
+CSL_8911,Transcanadian Rail,CA,Medicine Hat
+FR-2201,IDES FRance Subsidiary,FR,Paris La défense
+FR-2200,IDES France,FR,Paris La défense
+FR-2210,DIVISION 2210,FR,LYON
+VS333,Postal DC 2 Torino,IT,Torino
+VS332,Postal DC 1 Milano,IT,Milano
+VS330,S330,IT,Milano
+VS334,Postal DC 3 Arezzo 1,IT,Arezzo
+VS331,S331,IT,Barino
+VS335,Postal DC 4 Napoli,IT,Napoli
+0000100000,Telekom,DE,Frankfurt
+0000100263,JCPRA,JP,Tokyo
+0000300000,Edwin Dealer,DE,Walldorf
+0000300002,Juan Gonzalez,ES,Madrid
+0000001950,CPD L-Z,DE,
+0000001960,CPD A-K,DE,
+0000003950,One Time Vendors L - P,US,
+0000003960,One Time Vendors A - K,US,
+0000003010,One Time Vendors Q - Z,US,
+0000005002,One time vendor,JP,
+0000003849,Staples,US,
+0000080082,Vendor_Altpayee,US,
+RFDC,Reference DC,US,refcity
+DEC-001,Inland Lieferant CPD,DE,
+DEC-002,Ausland Lieferant CPD,AT,
+0000100359,Third-Party Agent #2,SO,Mogadishu
+HOTELS,HOTELS,,
+ADAMS,Adams Inc.,,
+OTA,OTA,,
+VENDOR,Typical Vendor,CA,Montreal
+0000200045,Judy Foster,CA,Ottawa
+0000200043,Ross Lannan,CA,oronto
+0000200041,Natasha Grant,CA,Oakville
+0000200050,Doug Hommy,CA,Mississauga
+0000200046,Leslie Edwards,CA,Toronto
+0000200042,Denis Sutton,CA,Sudbury
+0000200044,Raymond Chan,CA,North York
+0000200051,Neil Lefevre,CA,Calgary
+0000200040,Shandra Russell,CA,Calgary
+0000200047,Carol Chapelski,CA,Airdrie
+0000200049,Dean Melnyk,CA,Calgary
+0000200048,Judy Murin,CA,Airdrie
+0000200060,June Brown,GB,
+0000200020,Universidad del Zulia,VE,Maracaibo
+0000200000,Prudential,VE,Valencia
+0000200055,Template for employee,DE,
+0000100004,IBM of Portugal,PT,Lisboa
+0000100005,Hewlett Packard,PT,Lisboa
+0000100003,SAP ITALIA SPA,IT,AGRATE BRIANZA
+0000100002,Buffetti S.p.A.,IT,Milano
+0000100006,Lieferanten GmbH,DE,Hamburg
+0000100007,Kenneth K. Krediman,DE,Heidelberg
+0000100053,Tsutomu Shinozaki,JP,
+0000100054,Ichiro Sugiyama,JP,
+0000100318,TMS Consulting,DE,Mannheim
+0000100308,Apple Germany,DE,Munich
+0000100321,Evolo Robots,DE,München
+0000100348,DIVISION 2240,FR,MARSEILLE
+0000100273,SUPM REA Partner,DE,
+0000100578,Welser Inc.,DE,Berlin
+0000100579,Milton Inc.,DE,Berlin
+0000100580,Hancan,DE,Potsdam
+0000100237,Becker Berlin,DE,Berlin
+0000100233,Chemia A Technicznie Fabryka,PL,Warschau
+0000100239,Russian Electronic Trading Company,RU,Moskau
+0000100236,Russian Electronic Trading Company,RU,Moskau
+0000100234,Indian IT Trading Company,IN,Mumbai
+0000100235,C.R.T.U.,CA,Montreal
+0000100436,SCI Customer 01,CN,Hong Kong
+0000100434,SCI Customer 02,IN,New Delhi
+0000100433,SCI Customer 01,CN,Hong Kong
+0000100453,BAT,ES,Madrid
+0000100444,ALFA,FR,Paris
+0000100473,DMT,FR,Paris
+0000100450,Sté 2223,FR,Paris
+0000100478,Real Estate Trust,FR,Paris
+0000100479,2222,FR,Paris
+0000100449,CAR,FR,Courbevoie
+0000100343,DC HongKong,CN,HongKong
+0000100338,"DC Santa Fé, Argentina",AR,Santa Fé
+0000100339,"DC Mendoza, Argentina",AR,"Mendoza, Argentina"
+0000100344,"DC Tai’an, CN",CN,Tai'an
+0000100334,Plant 1600,DE,koln
+0000100333,plant 1500,DE,Munich
+0000100384,Comp Customer for Germany,DE,test street waldorf
+0000100392,BarbaraKyle,DE,Walldorf
+0000100388,jayakanth r,DE,test street
+0000100383,Ref Cust for Germany,DE,test street
+0000100391,ThomasCA,DE,Walldorf
+0000100228,江戸前ビル株式会社,JP,品川区
+0000100229,SAPビルディング株式会社,JP,品川区
+0000100283,GE Company,SA,ANTIOCH
+0000100428,Ship Project Customer,IN,Bangalore
+0000100403,Creative Signs,IN,
+0000100413,Lenovo Parts,ZA,
+0000100013,Jean Cosman,CA,Kitchener
+0000100573,Frank Hiller,DE,Berlin
+0000100448,Intercompany Resources to Canada,CA,Toronto
+0000100463,SPV India,IN,Mumbai
+0000100483,Shipping Customer,IN,bangalore
+0000100493,Test_Account,DE,Leipzig
+0000100163,Pedro Lopez,ES,Madrid
+0000100393,NewUserNewUser123,DE,12345
+0000100438,Invoice AG,DE,Stuttgart
+0000100070,Johann Smith,DE,
+0000100063,Steve Goldberg,US,
+0000100064,Christina Daniels,US,
+0000100380,Plant EWM LA Multi tenant 1,AR,Santa fe
+0000100379,Plant EWM EMEA Multi tenant 1,DE,Munchen
+0000100378,Plant EWM APJ Multi tenant 1,CN,Hong kong
+0000100328,Fischer Electronic,AT,Vienna
+0000100365,Med Supply Inc.,GB,London
+0000100332,Jansen & Partner Consulting,DE,Berlin
+0000100418,GDC,DE,Munach
+0000100369,Leblon,FR,Marseille
+0000100371,Femur & Tibia,IT,Milano
+0000100370,Stoll Laborbedarf,DE,Hamburg
+0000100320,W+S Network Solutions,GB,Manchester
+0000100367,Kramer GmbH,DE,Aachen
+0000100364,Muster IT GmbH,DE,Schwäbisch Hall
+0000100322,Microsoft Germany,DE,Munich
+0000100330,GDC Inc.,SG,Singapore
+0000100001,Charlotte Fritsch,DE,Frankfurt
+0000100128,Global Business Properties,DE,Berlin
+0000100459,Mercando,DE,Berlin
+0000100458,Greenfield,DE,Seedorf
+0000080002,General Suppliers Inc,CA,Toronto
+0000000001,Forks Manufacturing GmbH,DE,Hamburg
+0000000111,KBB Schwarze Pumpe,DE,Frankenthal/Pfalz
+0000001005,PAQ Deutschland GmbH,DE,Manheim
+0000080001,TLC Spares Suppliers,CA,Toronto
+0000001006,Blacks AG,DE,Frankfurt/Main
+0000001004,Jones Ltd.,GB,W1 Londond
+0000001007,Bike Retail & Co.,DE,Hannover
+CPB1000,Softdrink,DE,Hamburg
+SCEM_01,DSC  Roberts,DE,Heidelberg
+A006003948,Catering Services,DE,Berlin
+A006034403,C&I Services,DE,Hamburg
+A006029461,IT Services,DE,Dortmund
+A006015073,Consulting Services,DE,München
+A006052007,Printing Services,CN,Beijing
+A006061954,Media Publishing Services,CN,Shanghai
+A006049527,Translation Services,CN,Changsha
+A006079154,Public Relation Services,CN,Shenzhen
+ABC-600,Pump Repair Company,CA,Richmond Hill
+ESOURCING,eSourcing,DE,Philadelphia
+TP_DE_N_02,Unknown,DE,Berlin
+TP_EU_SUP2,TP EU Supplier 02,DE,Berlin
+TP_EU_S_02,TP EU Supplier 02,DE,Berlin
+TP_DE_S_01,TP EU Supplier 01,DE,Hanover
+TP_DE_N_01,Unknown,DE,Hanover
+TP_EU_SUP1,TP EU Supplier 1,DE,Hanover
+TP_DE_S_02,TP EU Supplier 02,DE,Tuebingen
+T_VENDOR2,T_VENDOR2,CN,
+T-1031,Chips und Fritz AG,DE,
+T-Q415-19,Ultralight,DE,Mannheim
+T-Q415-23,Ultralight,DE,Mannheim
+T-Q415-18,Ultralight,DE,Mannheim
+T-Q415-17,Ultralight,DE,Mannheim
+T-Q415-21,Ultralight,DE,Mannheim
+T-Q415-15,Ultralight,DE,Mannheim
+T-Q415-01,Ultralight,DE,Mannheim
+T-Q415-20,Ultralight,DE,Mannheim
+T-Q415-13,Ultralight,DE,Mannheim
+T-Q415-25,Ultralight,DE,Mannheim
+T-Q415-08,Ultralight,DE,Mannheim
+T-Q415-00,Ultralight,DE,Mannheim
+T-Q415-06,Ultralight,DE,Mannheim
+T-Q415-29,Ultralight,DE,Mannheim
+T-Q415-02,Ultralight,DE,Mannheim
+T-Q415-26,Ultralight,DE,Mannheim
+T-Q415-10,Ultralight,DE,Mannheim
+T-Q415-16,Ultralight,DE,Mannheim
+T-Q415-28,Ultralight,DE,Mannheim
+T-Q415-12,Ultralight,DE,Mannheim
+T-Q415-27,Ultralight,DE,Mannheim
+T-Q415-09,Ultralight,DE,Mannheim
+T-Q415-11,Ultralight,DE,Mannheim
+T-Q415-22,Ultralight,DE,Mannheim
+T-Q415-14,Ultralight,DE,Mannheim
+T-Q415-03,Ultralight,DE,Mannheim
+T-Q415-04,Ultralight,DE,Mannheim
+T-Q415-24,Ultralight,DE,Mannheim
+T-Q415-05,Ultralight,DE,Mannheim
+T-Q415-07,Ultralight,DE,Mannheim
+T-Q415-30,Ultralight,DE,Mannheim
+MN01,Manufacturer 01 for MPN,DE,Dresden
+M001,Ultralight,DE,Mannheim
+0000034010,Federal Garnishment,CA,Ottawa
+0000071650,Canada Customs & Revenue Agency,CA,Ottawa
+0000071100,Revenue Quebec,CA,Montreal
+0000071809,WCB - Quebec,CA,Montréal
+0000007110,Ministere du Revenu - Quebec,CA,Montreal
+0000071201,Health Tax - Quebec,CA,Montreal
+0000071605,Family Court - Quebec,CA,Montreal
+0000071000,Canada Customs & Revenue Agency,CA,Ottawa
+0000071526,Canadian Management Society,CA,Ottawa
+0000071625,Small Claims Court,CA,Ottawa
+0000071300,Canada Union,CA,Ottawa
+0000071525,Prof  Engineers Association,CA,Ottawa
+0000071400,Canada Life,CA,London
+0000071802,WCB - Manitoba,CA,Winnipeg
+0000071203,Health Tax - Manitoba,CA,Winnipeg
+0000071200,Health Tax - Ontario,CA,Toronto
+0000071807,WCB - Ontario,CA,Toronto
+0000041500,Superfitness Club,CA,Toronto
+0000071604,Family Court - Ontario,CA,Toronto
+0000071603,Family Court - Manitoba,CA,Winnipeg
+0000071550,United Way,CA,Toronto
+0000071501,Superfitness Club,CA,Toronto
+0000071500,Balley Fitness Club,CA,Toronto
+0000071202,Health Tax - Newfoundland,CA,St-John's
+0000071804,WCB - Newfoundland,CA,St. John's
+0000071803,WCB - New Brunswick,CA,Moncton
+0000071812,WCB - Nova Scotia,CA,Halifax
+0000071606,Family Court - New Brunswick,CA,St-John's
+0000071609,Family Court - Newfoundland,CA,St-John
+0000071607,Family Court - Nova Scotia,CA,Halifax
+0000071808,WCB - Prince Edward Island,CA,Charlottetown
+0000071608,Family Court - PEI,CA,Charlottetown
+0000071810,WCB - Saskatchewan,CA,Regina
+0000071602,Family Court - Saskatchewan,CA,Regina
+0000071600,Family Court - Alberta,CA,Calgary
+0000071800,WCB - Alberta,CA,Edmonton
+0000071801,WCB - British Columbia,CA,Victoria
+0000071601,Family Court - British Columbia,CA,Vancouver
+0000071805,WCB - Nunavut,CA,Nunavut
+0000071811,WCB - Yukon,CA,Whitehorse
+0000071806,WCB - Northwest Territories,CA,Yellowknife
+0000010991,XYZ Ltd.,DE,Frankfurt
+0000010992,BBC Ltd,DE,Frankfurt
+0000010990,ABC Ltd,DE,
+0000021000,IDES PORTUGAL,PT,Lissabon
+0000010000,IDES AG,DE,Frankfurt
+0000040000,IDES Canada,CA,Toronto
+0000020000,IDES UK LTD,GB,London
+0000022101,佐藤 二郎,JP,千代田区
+0000022100,鈴木 一郎,JP,江東区
+0000020050,Raymond ter Linden,DE,
+TRM-VENDOR,TRM-International,DE,Walldorf
+SAL00,Maul GmbH,DE,Bad König
+ZZ01,Med Wurst,DE,Hockenheim
+ZZ00,Arno Nym,DE,Hockenheim
+SAL50,Weber,DE,Hockenheim
+PMW00,Dressler,DE,München
+BALTUS27,Baltus AG Gr.27,DE,Frankfurt
+BALTUS04,Baltus AG Gr.04,DE,Frankfurt
+BALTUS20,Baltus AG Gr.20,DE,Frankfurt
+BALTUS08,Baltus AG Gr.08,DE,Frankfurt
+BALTUS06,Baltus AG Gr.06,DE,Frankfurt
+BALTUS22,Baltus AG Gr.22,DE,Frankfurt
+BALTUS13,Baltus AG Gr.13,DE,Frankfurt
+BALTUS12,Baltus AG Gr.12,DE,Frankfurt
+BALTUS14,Baltus AG Gr.14,DE,Frankfurt
+BALTUS28,Baltus AG Gr.28,DE,Frankfurt
+BALTUS10,Baltus AG Gr.10,DE,Frankfurt
+BALTUS17,Baltus AG Gr.17,DE,Frankfurt
+BALTUS16,Baltus AG Gr.16,DE,Frankfurt
+BALTUS25,Baltus AG Gr.25,DE,Frankfurt
+BALTUS05,Baltus AG Gr.05,DE,Frankfurt
+BALTUS00,Baltus AG Gr.00,DE,Frankfurt
+BALTUS03,Baltus AG Gr.03,DE,Frankfurt
+BALTUS09,Baltus AG Gr.09,DE,Frankfurt
+BALTUS18,Baltus AG Gr.18,DE,Frankfurt
+BALTUS26,Baltus AG Gr.26,DE,Frankfurt
+BALTUS07,Baltus AG Gr.07,DE,Frankfurt
+BALTUS11,Baltus AG Gr.11,DE,Frankfurt
+BALTUS19,Baltus AG Gr.19,DE,Frankfurt
+BALTUS23,Baltus AG Gr.23,DE,Frankfurt
+BALTUS24,Baltus AG Gr.24,DE,Frankfurt
+BALTUS21,Baltus AG Gr.20,DE,Frankfurt
+BALTUS02,Baltus AG Gr.02,DE,Frankfurt
+BALTUS15,Baltus AG Gr.15,DE,Frankfurt
+BALTUS29,Baltus AG Gr.29,DE,Frankfurt
+BALTUS30,Baltus AG Gr.30,DE,Frankfurt
+BALTUS01,Baltus AG Gr.01,DE,Frankfurt
+AGENCY18,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY16,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY13,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY09,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY15,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY06,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY05,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY14,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY29,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY31,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY30,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY02,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY22,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY01,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY27,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY10,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY19,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY25,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY28,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY23,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY11,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY07,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY20,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY00,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY24,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY26,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY08,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY12,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY04,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY17,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY03,Real Estate Agency Hamburg,DE,Hamburg
+AGENCY21,Real Estate Agency Hamburg,DE,Hamburg
+VE2240,Plant Distribution Center Marseille,FR,Marseille
+VE1100,Debitor for plant 1100,DE,Berlin
+VE2230,Plant Distribution Center Tours,FR,Tours
+VE2220,Plant Distibution Center Nantes,FR,Nantes
+VE1300,Vendor for plant 1300,DE,Frankfurt
+VE1400,Vendor for plant 1400,DE,Stuttgart
+VE2200,Plant Paris,FR,Paris
+VE4520,Vendor for plant 4520,CA,Toronto
+VE4513,Vendor for plant 4513,CA,Winnipeg
+VE4530,Vendor for plant 4530,CA,Key Lake
+MOBILE04,PERRY'S TOOLBOX PLC,GB,London
+MOBILE01,Scilly Tools PLC,GB,London
+MOBILE03,HappyHammering PLC,GB,London
+MOBILE02,Hongkong Trading Ltd,GB,London
+EXTERN_GE,External vendor Germany,DE,
+EXTERN,Extern,DE,Berlin
+COMPANY02,Company02,DE,Frankfurt
+EXTERN_JP,External vendor Japan,JP,Tokyo
+SA02,BR01 Vendor 2 APJ,TW,Taipei
+SA01,BR01 Vendor 1 APJ,JP,Osaka
+SL03,BR01 Vendor 3 LA,AR,Santa Rosa
+SL02,BR01 Vendor 2 LA,AR,San Luis
+SA03,BR01 Vendor 3 APJ,AU,Sydney
+SL01,BR01 Vendor 1 LA,AR,La Plata
+TEATIME,Teatime plc,GB,
+BRATWURST,Bratwurst AG,DE,
+RACLETTE,Raclette AG,CH,
+VENDOR01,Vendor 01 GB,GB,London
+VENDOR02,Vendor 02 AG,DE,Heidelberg
+VENDOR03,Vendor 03 AG,DE,BERLIN
+E260003,Mr. Boonchu Chumwit,TH,
+SA212,Supplier 212 APJ,CN,
+SA211,Supplier 211 APJ,CN,
+SL212,Supplier 212,DE,Munich
+SE211,Supplier 211 EMEA,DE,m
+SL211,Supplier 211,DE,Munich
+SE212,Supplier 212 EMEA,DE,
+VEND_QM_03,VEND_QM_03,US,
+VEND_QM_01,VEND_QM_01,US,
+SE33,EMEA Vendor 3,DE,Dortmund
+SE34,EMEA Vendor 4,DE,Nuremberg
+NL5410,Leverancier vestiging 5410,NL,
+NL5401,Watson bv,NL,Weesp
+NL5400,KDS International bv,NL,Zaltbommel
+EMEA-1001,William & Sons Gmbh,DE,Berlin
+EMEA-1000,Hudson Technologies,DE,Munich
+EMEA-1002,IMG Gmbh,DE,Walldorf
+MIDCO,MIDCO - IHC,GB,
+DUMMY HUM,Vendor Number for Inbound Delivery,DE,
+SUPPL05,Supplier 05,DE,
+SUPPL04,Supplier 04,DE,
+SUPPL06,Supplier 06,DE,
+SAL10,klö,DE,berlin
+SE03,Supplier SE03,DE,
+SE01,Supplier SE01,DE,
+SE02,Supplier SE02,DE,
+FOURNI,Fournisseur Type,CA,Montreal
+SP-CARB,SP Postal Carrier B,IT,Milano
+SP-CARA,SP Postal Carrier A,IT,Frangarto - Appiano
+0005000002,European Patent Office,DE,Munich
+0007000000,IDES Lieferant,DE,Walldorf
+0007000008,Zynega Pharm AG,DE,Karlsruhe
+SA103,Supplier 103 LLC,CN,
+SL103,Supplier 103 LLC,AR,
+SE103,Supplier 103 GmbH,DE,Dresden
+SMI-SUP-B,SMI Supplier B,DE,Hamburg
+TPL100,3PL100,AR,
+GCL_CAR_01,GCL Carrier,US,PRATTVILLE
+0000011111,MASTERCARD,US,PRATTVILLE
+RSV10,RSV10,US,PRATTVILLE
+US2345,US2345,US,PRATTVILLE
+US5580,US5580,US,PRATTVILLE
+US30192,US30192,US,PRATTVILLE
+US1444,US1444,US,PRATTVILLE
+TP_US_L_02,TSP Land Transportation US 02,US,PRATTVILLE
+0000100398,RSV10,US,PRATTVILLE
+MMMFR01,Mike,US,PRATTVILLE
+SU212,Supplier 211,US,PRATTVILLE
+SU108,Supplier 108 Inc.,US,PRATTVILLE
+IS_VEND4,Port of Los Angeles,US,LOS ANGELES
+0000008467,California Winery,US,Los Angeles
+US-LA-SP,LA Harbor,US,Los Angeles
+LSANG,Los Angeles,US,Los Angeles
+SLOC3,Trucker,US,Los Angeles
+SLOC4,Express Trucking,US,Los Angeles
+SL-LA-SP,LA Harbor,US,Los Angeles
+SL1235,West Coast Trucking Inc.,US,LOS ANGELES
+SL-CLEASE,Container Leasing Center,US,Los Angeles
+AF-JL-LAX,Rising Sun Airlines (US) Ltd.,US,Los Angeles
+TWA-QF-LAX,Oceanic Airways (USA) KK Ltd,US,Los Angeles
+AF-QF-LAX,Oceanic Airways (US) KK Ltd.,US,Los Angeles
+TWA-JL-LAX,Rising Sun Airlines (US) Ltd,US,Los Angeles
+TS_LA,Train Station Los Angeles,US,Los Angeles
+CSL_0001,Transpacific Shipping Lines,US,LOS ANGELES
+SL1234,Pacific Trucking Inc.,US,Terminal Island
+SL2234,Pacific Trucking Inc.,US,Terminal Island
+SLOC1,DSL container shipping,US,LOS ANGELES
+SLOC2,Trans Speed,US,Los Angeles
+0000200016,State of California,US,LOS ANGELES
+0000100238,ITelO,US,NORTH HOLLYWOOD
+0000100224,Pear Consulting Services Inc,US,Los Angeles
+0000100583,WDA Inc US,US,HOLLYWOOD
+0000100588,WDA INC.,US,Los Angeles
+0000100598,WDA Inc.,US,Los Angeles
+0000100368,Westwood,US,Los Angeles
+0000200025,Internal revenue service,PH,Pasay City
+0000200028,Albatros Aircrafts,US,FOSTER CITY
+0000200029,BA Union,US,FOSTER CITY
+0000200030,Metropolitan Life Insurance,US,FOSTER CITY
+0000000002,Electronic Components Distributor,US,FOSTER CITY
+CRM-35,Leslie Kingston,US,Denver
+S62003,Mark Wieber,US,Denver
+CRM-52,Leslie Bancroft,US,Denver
+CRM-25,Leslie McCullough,US,Denver
+S62002,Brian Jordan,US,Denver
+CRM-01,Leslie Allison,US,Denver
+CRM-39,Leslie Arnall,US,Denver
+CRM-29,Leslie Simpson,US,Denver
+CRM-40,Leslie Crumpton,US,Denver
+CRM-10,Leslie Mendoza,US,Denver
+CRM-62,Leslie Faber,US,Denver
+CRMTRAINER,Leslie Barry,US,Denver
+CRM-56,Leslie Caldwell,US,Denver
+TRAINING,Leslie Barry Training,US,DENVER
+CRM-60,Leslie Earley,US,DENVER
+S62010,Carla Paulson,US,Denver
+CRM-49,Leslie Brown,US,Denver
+CRM-19,Leslie Shields,US,Denver
+CRM-53,Leslie Barnett,US,DENVER
+CRM-24,Leslie Roth,US,Denver
+SMTPVS3856,Serv Mgmt TPVS TSP 2,US,DENVER
+SMTPVS3855,Serv Mgmt TPVS TSP 1,US,DENVER
+0000001059,Express Ship Carrier,US,DENVER
+0000300011,Harry Crump,US,DENVER
+0000100136,Susan Affleck,US,DENVER
+0000100137,Ben Devine,US,DENVER
+0000100134,Peter Johnson,US,DENVER
+0000100138,Judy Diaz,US,DENVER
+0000100135,Linda Addison,US,DENVER
+0000100149,Jordan Miller,US,DENVER
+0000100168,Willy Davidson,US,DENVER
+0000003800,Denver Distribution Center,US,Denver
+0000003100,Phoenix Supplies,US,WILMINGTON
+0000100113,James Abbott,US,WILMINGTON
+0000100068,George Peters,US,WILMINGTON
+US-VEND2,Supplier - Two,US,WILMINGTON
+SU32,US Vendor 32,US,Wilmington
+0000001030,Jotachi Deutschland AG,US,ATLANTA
+0000003901,Gertronics,US,ATLANTA
+0000200027,State of Georgia,US,ATLANTA
+0000000200,SMP,US,ATLANTA
+0000003818,Atlanta Electronics Supply,US,ATLANTA
+0000000954,Ander Group,US,ATLANTA
+0000004043,Parcel Service Express,US,ATLANTA
+0000300030,Fernando Rodriguez,US,ATLANTA
+0000100184,Gary Dahl,US,Atlanta
+0000100323,Mike Anderson,US,Atlanta
+0000100086,Michael Ryan,US,ATLANTA
+0000100179,Gerry Doolle,US,Atlanta
+0000100114,Jake West,US,ATLANTA
+TP-CAR-PAR,Parcel Carrier,US,Atlanta
+IS_CARR2,USA Rail Road Company,US,Chicago
+IS_CARR3,US West Trucking Company,US,Chicago
+0000000222,Express Vendor Inc,US,CHICAGO
+0000003535,Scheduling Agreement Vendor,US,LINCOLN PARK
+0000001222,ABC Supply Company,US,CHICAGO
+0000001333,Sub Contract & Supply,US,CHICAGO
+0000001110,Illinois Utilities,US,CHICAGO
+0000003002,Odysse Pump,US,CHICAGO
+0000003820,Thomas Bush,US,CHICAGO
+0000003550,International Container Companny,US,CHICAGO
+0000001560,Metal Container Inc.,US,CHICAGO
+0000003802,American Business Services,US,CHICAGO
+0000003931,International Transport Comp.,US,CHICAGO
+SL3457,Truck Cargo,US,CHIcago
+SL4568,Air Cargo,US,CHIcago
+SL3456,Truck Trans,US,CHIcago
+SL4567,Air Trans,US,CHIcago
+JRT-00,JR Trucking,US,CHICAGO
+CEP-CR-01,FedEx,US,Chicago
+RF-CR-BURL,Burlington Rail Inc,US,Chicago
+TS_CHICAGO,Train Station Chicago,US,Chicago
+SL2468,Rail Trans Inc.,US,Chicago
+0000200007,Fidelity 401k Services,US,CHICAGO
+0000200006,CIGNA PPO,US,CHICAGO
+0000200012,Merrill Lynch,US,CHICAGO
+0000200011,Hyatt Legal Services,US,CHICAGO
+0000200004,Harvard Communitz Health,US,CHICAGO
+0000200002,Kaiser,US,CHICAGO
+0000200005,CIGNA,US,CHICAGO
+0000200017,State of Illinois,US,CHICAGO
+0000100153,Plastic Cap Inc,US,CHICAGO
+0000100085,Tom Peterson,US,CHICAGO
+0000100025,Karen Mitchell,PA,Provincia de Panamá
+0000100028,Deborah Schmidt,US,CHICAGO
+0000100011,Karen Mitchell,US,CHICAGO
+0000100126,Barb Brunner,US,CHICAGO
+0000100243,Real Estate Trust,US,Chicago
+A006097529,Maintenance Services,US,Chicago
+VENDOR04,VENDOR04,US,Chicago
+NALA-3000,Office Deliveries,US,Chicago
+MD-VEND1,Medical Device Vendor,US,Chicago
+TP-CARC,TPVS Carrier C,US,CHICAGO
+TP-MMCARD,Intermodal Services,US,Chicago
+0000033333,Treasury Vendor,US,New York
+0000003001,Flowrate Corp,US,NEW YORK
+0000030001,Ides Vendor for excise duty,US,NEW YORK
+0000003999,Jabil Vendor,US,NEW YORK
+0000030100,Brooke Supply Company,US,NEW YORK
+0000003560,Metal Containers,US,NEW YORK
+0000008040,Venky Subcontractors,US,NEW YORK
+0000003000,C.E.B. New York,US,NEW YORK
+0000003970,VISA,US,NEW YORK
+0000010276,Bank of NY,US,New York
+CPB1000200,DC Megadrink,US,NEW YORK
+CPB1000130,Jenny Light,US,NEW YORK
+CPB1000100,Miller Fred,US,NEW YORK
+0000001993,Snyder Inc.,US,NEW YORK
+0000003941,Transport Express,US,NEW YORK
+F2224,Sté 2224,US,New York
+SBC_S_01,Business Partner Chemical Carrier,US,NEW YORK
+TM_US_L_01,Carrier Land US 01,US,New York
+0000004041,Express Transport,US,NEW YORK
+0000060010,Road Trans Inc.,US,NEW YORK
+V3000,vendor for Plant 3000,US,MANHATTAN
+0000200026,State of New York,US,NEW YORK
+0000200013,CIGNA,US,NEW YORK
+0000200008,Vision Service Plan,US,NEW YORK
+0000200001,Blue Cross Blue Shield,US,NEW YORK
+0000100188,Department of Finance Correspondenc,US,New York
+0000100161,Johnson Jenny,US,NEW YORK
+0000100158,Larry Landlord,US,NEW YORK
+0000100159,Larry Landlord,US,NEW YORK
+0000100160,Larry Landlord,US,NEW YORK
+0000100088,Timmy Tabasco,US,New York
+0000100095,Mark Gregson,US,New York
+0000100083,JeremyXWilson,US,NEW YORK
+0000100087,Ann Takahashi,US,New York
+0000100090,George Metzger,US,NEW YORK
+0000100096,HaroldXCarson,US,NEW YORK
+0000100451,Sté 2224,US,New York
+0000100078,Mrs Mary Steward,US,NEW YORK
+0000100116,Mark Williams,US,NEW YORK
+0000100111,Katherine Durand,US,NEW YORK
+0000100115,Michael Waldmann,US,NEW YORK
+A006088451,Security Services,US,New York
+A006116835,Chauffeur Services,US,New York
+EARIBA,EARIBA,US,New York
+MN02,Manufacturer 02 for MPN,US,NEW YORK
+SU213,SU213 - EWM supplier,US,NEW YORK
+EWM_3000,C.E.B. New York,US,NEW YORK
+PV3000,Plant 3000 Vendor,US,NEW YORK
+0007000006,Global Computers,US,NEW YORK
+SU103,Supplier 103 Inc.,US,NEW YORK
+0000003510,1099 Vendor,US,PHILADELPHIA
+0000003500,Electronic Funds Transfer,US,PHILADELPHIA
+0000003815,EGS America,US,PHILADELPHIA
+0000008050,Excellent Materials,US,PHILADELPHIA
+0000003801,Acme Industrial Supplies,US,PHILADELPHIA
+0000004042,Reliable Trucking,US,PHILADELPHIA
+0000100148,Perry Johnson,US,PHILADELPHIA
+0000100091,Karen Altobelli,US,FOX CHASE
+0000100038,Karen Holtzblatt,US,PHILADELPHIA
+0000100223,TechTronix Inc.,US,Philadelphia
+0000100109,Marcus Weiss,US,PHILADELPHIA
+0000100069,John Smith,US,PHILADELPHIA
+0000100018,Tom Peterson,US,PHILADELPHIA
+A006105812,Gardener Services,US,Philadelphia
+TI_VEN1,Best Packaging Company,US,PHILADELPHIA
+TI-VEN1,Best Packaging Company,US,PHILADELPHIA
+US-VEN4,N. A. Sealing Company,US,PHILADELPHIA
+US-VEN3,Global Additives Ltd.,US,PHILADELPHIA
+US-VEN5,Interstate Transport Comp.,US,PHILADELPHIA
+US-VEN2,World Colors Incorporated,US,PHILADELPHIA
+US-VEN6,Total Chemical Company,US,PHILADELPHIA
+US-VEN1,Universal Chemical Stabilizer Co.,US,PHILADELPHIA
+MCCOY-22,McCoy-22,US,ATLANTA
+MCCOY-04,McCoy-04,US,ATLANTA
+MCCOY-14,McCoy-14,US,ATLANTA
+MCCOY-27,McCoy-27,US,ATLANTA
+MCCOY-07,McCoy-07,US,ATLANTA
+MCCOY-18,McCoy-18,US,ATLANTA
+MCCOY-19,McCoy-19,US,ATLANTA
+MCCOY-30,McCoy-30,US,ATLANTA
+MCCOY-11,McCoy-11,US,ATLANTA
+MCCOY-09,McCoy-09,US,ATLANTA
+MCCOY-28,McCoy-28,US,ATLANTA
+MCCOY-23,McCoy-23,US,ATLANTA
+MCCOY-26,McCoy-26,US,ATLANTA
+MCCOY-29,McCoy-29,US,ATLANTA
+MCCOY-17,McCoy-17,US,ATLANTA
+MCCOY-21,McCoy-21,US,ATLANTA
+MCCOY-01,McCoy-01,US,ATLANTA
+MCCOY-00,McCoy-00,US,Atlanta
+MCCOY-10,McCoy-10,US,ATLANTA
+MCCOY-13,McCoy-13,US,ATLANTA
+MCCOY-15,McCoy-15,US,ATLANTA
+MCCOY-05,McCoy-05,US,ATLANTA
+MCCOY-20,McCoy-20,US,ATLANTA
+MCCOY-06,McCoy-06,US,ATLANTA
+MCCOY-12,McCoy-12,US,ATLANTA
+MCCOY-02,McCoy-02,US,ATLANTA
+MCCOY-03,McCoy-03,US,ATLANTA
+MCCOY-25,McCoy-25,US,ATLANTA
+MCCOY-24,McCoy-24,US,ATLANTA
+MCCOY-08,McCoy-08,US,ATLANTA
+MCCOY-16,McCoy-16,US,ATLANTA
+EBP-22,EBuyers-22,US,ATLANTA
+EBP-16,EBuyers-16,US,ATLANTA
+EBP-00,EBuyers-00,US,ATLANTA
+EBP-23,EBuyers-23,US,ATLANTA
+EBP-09,EBuyers-09,US,ATLANTA
+EBP-19,EBuyers-19,US,ATLANTA
+EBP-04,EBuyers-04,US,ATLANTA
+EBP-05,EBuyers-05,US,ATLANTA
+EBP-28,EBuyers-28,US,ATLANTA
+EBP-17,EBuyers-17,US,ATLANTA
+EBP-07,EBuyers-07,US,ATLANTA
+EBP-15,EBuyers-15,US,ATLANTA
+EBP-20,EBuyers-20,US,ATLANTA
+EBP-08,EBuyers-08,US,ATLANTA
+EBP-12,EBuyers-12,US,ATLANTA
+EBP-13,EBuyers-13,US,ATLANTA
+EBP-02,EBuyers-02,US,ATLANTA
+EBP-27,EBuyers-27,US,ATLANTA
+EBP-03,EBuyers-03,US,ATLANTA
+EBP-26,EBuyers-26,US,ATLANTA
+EBP-18,EBuyers-18,US,ATLANTA
+EBP-01,EBuyers-01,US,ATLANTA
+EBP-11,EBuyers-11,US,ATLANTA
+EBP-10,EBuyers-10,US,ATLANTA
+EBP-14,EBuyers-14,US,ATLANTA
+EBP-06,EBuyers-06,US,ATLANTA
+EBP-29,EBuyers-29,US,ATLANTA
+EBP-21,EBuyers-21,US,ATLANTA
+EBP-30,EBuyers-30,US,ATLANTA
+EBP-25,EBuyers-25,US,ATLANTA
+EBP-24,EBuyers-24,US,ATLANTA
+ARAMI-18,Aramingo-18,US,WILMINGTON
+ARAMI-05,Aramingo-05,US,WILMINGTON
+ARAMI-01,Aramingo-01,US,Wilmington
+ARAMI-27,Aramingo-27,US,WILMINGTON
+ARAMI-23,Aramingo-23,US,WILMINGTON
+ARAMI-07,Aramingo-07,US,WILMINGTON
+ARAMI-19,Aramingo-19,US,WILMINGTON
+ARAMI-22,Aramingo-22,US,WILMINGTON
+ARAMI-20,Aramingo-20,US,WILMINGTON
+ARAMI-14,Aramingo-14,US,WILMINGTON
+ARAMI-02,Aramingo-02,US,Wilmington
+ARAMI-21,Aramingo-21,US,WILMINGTON
+ARAMI-26,Aramingo-26,US,WILMINGTON
+ARAMI-28,Aramingo-28,US,WILMINGTON
+ARAMI-13,Aramingo-13,US,WILMINGTON
+ARAMI-15,Aramingo-15,US,WILMINGTON
+ARAMI-17,Aramingo-17,US,WILMINGTON
+ARAMI-10,Aramingo-10,US,WILMINGTON
+ARAMI-06,Aramingo-06,US,WILMINGTON
+ARAMI-08,Aramingo-08,US,WILMINGTON
+ARAMI-11,Aramingo-11,US,WILMINGTON
+ARAMI-24,Aramingo-24,US,WILMINGTON
+ARAMI-29,Aramingo-29,US,WILMINGTON
+ARAMI-30,Aramingo-30,US,WILMINGTON
+ARAMI-09,Aramingo-09,US,WILMINGTON
+ARAMI-12,Aramingo-12,US,WILMINGTON
+ARAMI-25,Aramingo-25,US,WILMINGTON
+ARAMI-04,Aramingo-04,US,WILMINGTON
+ARAMI-16,Aramingo-16,US,WILMINGTON
+ARAMI-03,Aramingo-03,US,WILMINGTON
+JOLIE-16,JOLIE-16 INCORPORATED,US,PHILADELPHIA
+JOLIE-18,JOLIE-18 INCORPORATED,US,PHILADELPHIA
+PITT-04,PITT-04 INCORPORATED,US,PHILADELPHIA
+JOLIE-02,JOLIE-02 INCORPORATED,US,PHILADELPHIA
+PITT-14,PITT-14 INCORPORATED,US,PHILADELPHIA
+PITT-25,PITT-25 INCORPORATED,US,PHILADELPHIA
+JOLIE-07,JOLIE-07 INCORPORATED,US,PHILADELPHIA
+PITT-15,PITT-15 INCORPORATED,US,PHILADELPHIA
+PITT-16,PITT-16 INCORPORATED,US,PHILADELPHIA
+JOLIE-00,JOLIE-00 INCORPORATED,US,PHILADELPHIA
+JOLIE-13,JOLIE-13 INCORPORATED,US,PHILADELPHIA
+PITT-19,PITT-19 INCORPORATED,US,PHILADELPHIA
+JOLIE-28,JOLIE-28 INCORPORATED,US,PHILADELPHIA
+PITT-29,PITT-29 INCORPORATED,US,PHILADELPHIA
+JOLIE-03,JOLIE-03 INCORPORATED,US,PHILADELPHIA
+PITT-23,PITT-23 INCORPORATED,US,PHILADELPHIA
+JOLIE-10,JOLIE-10 INCORPORATED,US,PHILADELPHIA
+JOLIE-23,JOLIE-23 INCORPORATED,US,PHILADELPHIA
+PITT-06,PITT-06 INCORPORATED,US,PHILADELPHIA
+PITT-12,PITT-12 INCORPORATED,US,PHILADELPHIA
+JOLIE-09,JOLIE-09 INCORPORATED,US,PHILADELPHIA
+JOLIE-19,JOLIE-19 INCORPORATED,US,PHILADELPHIA
+JOLIE-20,JOLIE-20 INCORPORATED,US,PHILADELPHIA
+JOLIE-25,JOLIE-25 INCORPORATED,US,PHILADELPHIA
+PITT-05,PITT-05 INCORPORATED,US,PHILADELPHIA
+PITT-21,PITT-21 INCORPORATED,US,PHILADELPHIA
+JOLIE-08,JOLIE-08 INCORPORATED,US,PHILADELPHIA
+JOLIE-17,JOLIE-17 INCORPORATED,US,PHILADELPHIA
+JOLIE-21,JOLIE-21 INCORPORATED,US,PHILADELPHIA
+JOLIE-26,JOLIE-26 INCORPORATED,US,PHILADELPHIA
+PITT-24,PITT-24 INCORPORATED,US,PHILADELPHIA
+PITT-27,PITT-27 INCORPORATED,US,PHILADELPHIA
+PITT-08,PITT-08 INCORPORATED,US,PHILADELPHIA
+PITT-28,PITT-28 INCORPORATED,US,PHILADELPHIA
+JOLIE-24,JOLIE-24 INCORPORATED,US,PHILADELPHIA
+PITT-13,PITT-13 INCORPORATED,US,PHILADELPHIA
+PITT-22,PITT-22 INCORPORATED,US,PHILADELPHIA
+PITT-10,PITT-10 INCORPORATED,US,PHILADELPHIA
+JOLIE-11,JOLIE-11 INCORPORATED,US,PHILADELPHIA
+JOLIE-12,JOLIE-12 INCORPORATED,US,PHILADELPHIA
+JOLIE-27,JOLIE-27 INCORPORATED,US,PHILADELPHIA
+JOLIE-29,JOLIE-29 INCORPORATED,US,PHILADELPHIA
+JOLIE-15,JOLIE-15 INCORPORATED,US,PHILADELPHIA
+PITT-26,PITT-26 INCORPORATED,US,PHILADELPHIA
+JOLIE-22,JOLIE-22 INCORPORATED,US,PHILADELPHIA
+PITT-07,PITT-07 INCORPORATED,US,PHILADELPHIA
+JOLIE-06,JOLIE-06 INCORPORATED,US,PHILADELPHIA
+PITT-09,PITT-09 INCORPORATED,US,PHILADELPHIA
+JOLIE-05,JOLIE-05 INCORPORATED,US,PHILADELPHIA
+PITT-02,PITT-02 INCORPORATED,US,PHILADELPHIA
+PITT-11,PITT-11 INCORPORATED,US,PHILADELPHIA
+JOLIE-30,JOLIE-30 INCORPORATED,US,PHILADELPHIA
+PITT-03,PITT-03 INCORPORATED,US,PHILADELPHIA
+PITT-18,PITT-18 INCORPORATED,US,PHILADELPHIA
+JOLIE-14,JOLIE-14 INCORPORATED,US,PHILADELPHIA
+PITT-20,PITT-20 INCORPORATED,US,PHILADELPHIA
+PITT-30,PITT-30 INCORPORATED,US,PHILADELPHIA
+JOLIE-04,JOLIE-04 INCORPORATED,US,PHILADELPHIA
+PITT-17,PITT-17 INCORPORATED,US,PHILADELPHIA
+PITT-00,PITT-00 INCORPORATED,US,PHILADELPHIA
+JOLIE-01,JOLIE-01 INCORPORATED,US,PHILADELPHIA
+PITT-01,PITT-01 INCORPORATED,US,PHILADELPHIA
+0000003705,Zebra Supplies,US,WAYNE
+0000003005,"Abbott Building Supplies, Inc.",US,WAYNE
+0000003735,Farm Products Inc.,US,CINCINNATI
+0000003715,Zebra Supplies,US,WEST CHESTER
+0000003730,Aztec Supplies,US,WALTHAM
+0000003740,Colinas Maintenance Corp.,US,IRVING
+0000003745,Destec Office Supplies,US,HOUSTON
+0000005301,Acufit Manufacturing,US,HAMMOND
+0000007600,Welltech Processing,US,MILWAUKEE
+0000001703,Dell Computers,US,ROUND ROCK
+0000005587,IDES PCK Inc.,US,HILLSBOROUGH
+0000001081,Harley-Davidson Motorcycles Inc.,US,MILWAUKEE
+0000003140,Morris C.A. Pipe-Services,US,PHILADELPHIA
+0000003120,Morris C.A. Pipe-Services,US,PHILADELPHIA
+0000009411,SKF Amerikas,US,HOUSTON
+GTSKR-V01,DaHan Corp.,KR,"SeongNam City , BunDang Gu"
+SA310,陕西公司,CN,西安
+CBMPUMPSER,CBM Pump Services LTd,DE,walldorf
+SRV-1,ABC Dienstleistungs GmbH,DE,Mannheim
+0000003755,Bellevue Plant 4000,CA,Toronto
+0000005011,IR Corporation,JP,Shinjuku
+0000005012,Railways Inc.,JP,Akasaka
+0000009100,company 9100,RU,Moscow
+0000007999,India localization Vendor - 1,IN,
+0000007998,India localization Vendor - 2,IN,
+0000007990,India localization Vendor - 5,IN,
+0000001080,Générale Electronique SA,FR,Marseilles
+0000001987,Schmidt-Müller AG,DE,Frankfurt
+SCM550,Schmidt-Müller AG,DE,Frankfurt
+0000001018,Bechtle direct AG,CH,Gland
+0000001082,Louis Bike Parts,DE,Hamburg
+0000001151,Media AG Trier,DE,Trier
+0000005205,RS Components,DE,Mörfelden-Walldorf
+0000001104,Hoch und Tiefbau GmbH Kaiserslauter,DE,Kaiserlautern
+0000003725,Zebra Supplies,US,FOSTER CITY
+0000003701,"eSupplier, Inc",US,WILMINGTON
+0000005585,IDES Software Application Consultin,US,ATLANTA
+0000005570,IDES High Tech Inc.,US,ATLANTA
+0000005583,Total E&P Services Corp.,US,ATLANTA
+0000005586,IDES IT Consulting,US,ATLANTA
+0000006595,ERP Vendor (IDES),US,ATLANTA
+0000005590,IDES Photo Labs Inc,US,ATLANTA
+0000005580,IDES Tech Inc,US,ATLANTA
+0000005581,IDES Office Products,US,ATLANTA
+0000003720,Zebra Supplies,US,ATLANTA
+0000009611,AES Atlanta Electronic Supply,US,Atlanta
+0000005650,"eVendor, LLP",US,CHICAGO
+0000003750,New York Plant 3000,US,NEW YORK
+0000009511,PA Drives,US,GREELEY SQUARE
+0000005584,IDES Pump Technologies Inc.,US,NEW YORK
+0000003710,Zebra Supplies,US,PHILADELPHIA
+0000003006,Henderson Inc.,US,PHILADELPHIA
+0000003022,CAFS Chemicals & Pharmaceuticals,US,PHILADELPHIA
+0000003035,CAFS Chemicals & Pharmaceuticals,US,PHILADELPHIA
+CV000002,CYMBAL Third party vendor for Canad,CA,Toronto
+SU111,SU111,US,MALBIS
+SU110,SU110,US,MONTROSE
+SU109,SU109,US,MALBIS
+CM_VOG01,CM Oil and Gas Vendor 01,US,Phoenix
+CM_VCO03,CM Concentrate Vendor 03,US,newtown square
+CM_VMTFIX,CM Metal Vendor FIX,US,dallas
+CM_CABLE1,CM Cable (Hollow Price + Metal),DE,Hallbergmoos
+CM_VMI01,CM Miscellaneous Vendor01,US,houston
+CM_VOG02,CM Oil and Gas Vendor 02,US,astoria
+CM_VMEAT_1,CM Vendor Meat,US,Chicago
+CM_VCO02,CM Concentrate Vendor 02,US,palo alto
+CM_VCO01,CM Concentrate Vendor 01,US,new orleans
+CM_VMT02,CM Metal Vendor 02,US,springfield
+CM_VMI02,CM Miscellaneous Vendor02,US,new orleans
+CM_VMT01,CM Metal Vendor 01,US,Munich
+CM_VMI03,CM Miscellaneous Vendor03,US,washington
+CM_VAG02,CM Agriculture Vendor 02,US,boston
+CM_VOG03,CM Oil and Gas Vendor 03,US,waldorf
+CM_VMTGTM,CM Metal Vendor GTM,US,Little Rock
+CM_VMT03,CM Metal Vendor 03,US,atlanta
+SU777,AC Company / Ohio NEW,US,Lima
+G889,Flextronix Industries,US,Santa Clara
+G888,Hon Hai Industries,US,San Jose
+RLVEND,Rudy's Favorite Vendor,US,Irving
+WGW-002,Liberty Industries / Pennsylvania,US,Pittsburgh
+WGW-003,American Industries / Pennsylvania,US,lancaster
+WGW-001,AC Company/ohio,US,lima
+WGW-007,US Supply / Wisconsin,US,Racine
+WGW-006,Rossi Industries / Wisconsin,US,Madison
+WGW-005,Frankline Inc / Wisconsin,US,La Crosse
+WGW-004,Eau Clarie Limited / Wisconsin,US,eau claire
+AGRADSUP,A Grade Supplier,US,Troy
+OSS,Office Supplies Supplier,US,Troy
+IN-IMPORT,Import Vendor,US,MARBURY
+SU106,SU106,US,FALL CREEK
+V-01,BSI2011-Vendor-01,US,DOWNERS GROVE
+FARR,RevRec,US,Washington
+ACM_TESTV1,ACM Test Vendor,US,STUTTGART
+SP-3014,Joe Smith,US,Tustin
+SP-3011,Worldwide Supply Sensations,US,Tustin
+VEN_001,SUPPLIER A,US,Palo Alto
+CJL-6027,Carla's Vendor,US,Lafayette
+PJGSUB1,PJG - Supplier - 1,US,Maywood
+JML-2124,Vendor - Net w/ customer,US,Lafayette
+JML-1099,1099 Vendor,US,Lafayette
+JML-2122,Staples,US,Lafayette
+JML-2123,Fry's,US,Lafayette
+SAS8383,Steve's Favorite Vendor,US,Westerville
+DDVENE,Dion Vendor 2,US,Bridgeport
+DDVEND,Dion Vendor,US,Richardson
+VENDORA,Life Sciences Supplier,US,Newtown Square
+VENDOR_A,Pacheco AG,US,Newtown Square
+CKE-28208,Kern's #1 Vendor,US,Charlotte
+GPCO,GpCo,US,Hamilton
+YHTS_OSR,Osram,US,STAPLETON
+A80084,Vendor_Altpayee4,US,FOLEY
+A80083,Vendor_Altpayee2,US,FOLEY
+A80085,Vendor_Altpayee5,US,LITTLE RIVER
+A80082,Vendor_Altpayee,US,FAIRHOPE
+SU321,C. M Vendor 1,US,Littleton
+SU302,Libert Industries / Pennsylvania,US,Pittsburgh
+SU303,Vend Inc. / Pennsylvania,US,Lancaster
+SU301,AC Company / Ohio,US,Lima
+SU307,US Supply / Wisconsin,US,Racine
+SU306,Rossi Industries / Wisconsin,US,Madison
+SU305,Franklin Inc / Wisconsin,US,La Crosse
+SU304,Supplier Limited / Wisconsin,US,Eau Claire
+MECHEQSUP,Mechanical Equipment Suppliers,US,BILLINGSLEY
+ENGSUP,Engineering Suppliers,US,AUTAUGAVILLE
+SP01-FOR,Centro 7020,BR,Campinas
+SP02-FOR,Centro 7030,BR,Rio de Janeiro
+SP03-FOR,Centro 7040,BR,Belo Horizonte
+0000010648,MJB Supply Corporation,US,Southfield
+0000044444,Hanley Supply House,US,WESTCHESTER
+0000008275,Charlotte Supply,US,CHARLOTTE
+0000007943,Blythewood Steel,US,BLYTHEWOOD
+0000008436,Houston Electrical Supply,US,HOUSTON
+0000000935,Burton's Machine Shop,US,TULIA
+0000005867,Arizona Aluminum,US,TUCSON
+0000004378,Seattle Wire Steel,US,SEATTLE
+0000005900,Enigma,US,DETROIT
+0000002100,EASTERN TRUCKING CO.,US,WALTHAM
+0000002500,Ancol Corp.,US,HARRISVILLE
+0000002502,Rubicon Steel & Components,US,VANDERBILT
+0000002501,P4B Pistons for Brakes Inc.,US,Phoenix
+R3003,Unknown,US,MONTROSE
+R3000,Allfresh Inc.,US,MINNEAPOLIS
+R3002,Meyer Hardware Inc.,US,HOT SPRINGS
+0000003557,Ides Can Manufacturing,US,SAN JOSE
+0000003556,IDES Bottles Manufacturing Inc.,US,SAN JOSE
+0000080078,Plant ZTEW,US,BYNUM
+0000009026,Grainger,US,ALBANY
+0000006696,"Pump Repair Services, INC",US,Newtown Square
+0000005400,Requisite Online,US,San Francisco
+0000010020,Doug Olson,US,OAK PARK
+0000010501,Deborah Davis,US,THORNTON
+0000010018,Linda Smythe,US,HINCKLEY
+0000010010,John Smith,US,HINCKLEY
+0000010800,Frank Abbott,US,IRVINE
+0000010099,Noe Food Company,US,LESTER
+0000001011,SKC Americas,US,NEWARK
+0000009200,UberTronics,US,STOCKTON
+0000007011,1. Atlaas Industries,US,Pittsburgh
+0000007021,Ellweed Crankshaft Group,US,Pittsburgh
+0000097000,Plant 7000 Vendor,BR,São Paulo
+0000003030,Air Parts,US,KILLEEN
+0000003031,Air Service,US,MIAMI
+0000003741,Schwartz Brothers,US,EXTON
+0000049998,Plant EWM US Multi tenant 1,US,dallas
+0000009070,Bridge Manufacturing,US,Pittsburgh
+0000002345,MJB Enterprises,US,Aurora
+0000005557,VK  Enterprisises,US,Aurora
+0000005601,HTO Services and Solutions,US,WAYNE
+0000005602,Datalab Computer Applications,US,MEMPHIS
+0000006602,Datatrans IT Services,US,MEMPHIS
+0000003121,Marx Broths Piping Copmany,US,MEMPHIS
+0000003141,Marx Broths Piping Copmany,US,MEMPHIS
+0000005582,IDES Automotive,US,DETROIT
+0000005579,Jones Inc.,US,Detroit
+0000005588,IDES Electronic Parts Inc,US,Detroit
+0000003555,IDES Packaging Inc.,US,SAN JOSE
+0000001105,Harvey Building and Construction,US,NEWCASTLE
+0000005591,TX Electronics,US,HOUSTON
+0000004447,Plant Dallas 3500,US,Dallas
+CV000001,CYMBAL Third party vendor,US,
+CV000003,CYMBAL Third party vendor for Germa,DE,Hamburg
+CV000004,CYMBAL Third party vendor for Japan,JP,Tokyo
+US02,US02 Intercompany vendor,US,Cupertino
+US01V,US01 Intercompany Vendor,US,Atlanta
+TEST V1,Test Vendor 1,US,
+0000345678,Test Vendor12,US,
+0000456789,Sub contracting test vendor,US,
+0000234567,Test Vendor EU,NL,
+0000467879,sc vendor test,NL,
+0000564321,Food Industries,NL,Amsterdam
+TEST EU,TEST EU VENDOR,NL,Flevoland
+VENDOR_SUB,Test Subcontracting vendor,US,Boston
+0000885831,Hexabex,NO,
+0000819760,Steel Dynamics Inc.,FR,
+0000226723,Manufacture Maven,PL,
+0000692325,Conficio Co.,IE,
+0000994199,test vendor,EU,
+V1100,Cymbal California plant 1100,US,
+V2000,2000,NL,
+0000210000,CYMBAL Amsterdam Plant 2100,NL,Amsterdam
+CA03,Canada C003,CA,
+MSE,Mainland Steel exporters,CN,
+MLM,Main Land Mechatronics,CN,
+A006049503,Mustermann Bikes,DE,Wiesloch
+TURFMOOR,Turfmoor Inc,DE,Walldorf
+CM_VCL01E,CM Coal Seller 01 (Europe),DE,
+CM_CABLE2B,"CM Cable (BaseValue+Metal), 2Condit",DE,Hallbergmoos
+CM_VMTGTME,CM Metal Vendor GTM EUR,DE,
+CM_VMI01E,CM Misc Vendor 01 EUR,DE,Dresden
+CM_VCO01E,CM Concentrate Vendor EUR,DE,Karlsruhe
+CM_CABLE2A,"CM Cable (BaseValue+Metal), 2CPE Te",DE,
+CM_VMTFIXE,CM Metal Vendor FIX EUR,DE,Berlin
+CM_VCOFIXE,CM Conc Vendor FIX,DE,
+CM_VMT01E,CM Metal Vendor 01 EUR,DE,Hamburg
+CM_VAG01E,CM Agri Vendor 01 EUR,DE,Bielefeld
+CM_VOG01E,CM Oil&Gas Vendor 01 EUR,DE,Ettlingen
+EE-FR_2012,EE-FR,DE,
+EE-FR,EE-FR,DE,
+SLOPAK,SLOPAK d.o.o.,SL,Ljubljana
+ARA,Altstoff Recycling Austria,AT,WienWien
+ARA_1,Altstoff Recycling Austria,AT,Wien
+CONAI,Conai Italy,IT,Milano
+WEEE,WEEE,DE,Busy Town
+YCFP_S_ETI,Electronic Technologies Inc.,DE,
+YCFP_S_INO,Inno Electronics,DE,
+YCFP_S_CAB,Cable Enterprises,DE,
+YCFP_S_HIG,High Electronics,DE,
+YCFP_S_UNI,United Electronics,DE,
+SL101,Supplier 101 LLC,AR,Rio Cuarto
+SE101,Supplier 101 GmBH,DE,Dresden
+SA101,Supplier 101 LLC,CN,Shanghai
+FIO-VEND02,Electronics & Co.,DE,
+PLANT_0002,Plant 2 Vendor Name,DE,
+FIO-VEND01,Electronics Retail & Co.,DE,
+FIO-VEND03,Sunny Electronics GmbH,DE,
+FIO-VEND04,Electronics Store,DE,
+DIT-VN-50,TM-DIT: Vendor 5 / Kassel,DE,Kassel
+DIT-VN-30,TM-DIT: Vendor 3 / Dortmund,DE,Dortmund
+DIT-VN-40,TM-DIT: Vendor 4 / Dortmund,DE,Dortmund
+DIT-VN-10,TM-DIT: Vendor 1 / Munich,DE,Munich
+DIT-VN-20,TM-DIT: Vendor 2 / Nuremberg,DE,Nuremberg
+WGW-008,Wei Gou International,CN,beijingshi
+IIL-VN-01,IIL Vendor 1,CN,Beijing
+IIL-VN-02,IIL Vendor 2,CN,Shenzhen
+FORN00-35,Sony Corporation Japan,JP,Togane-Shi
+SERU305,SERU305,RU,Nizniy Novgorod
+VEND2820,China Company code 2820,CN,
+EWT-VEN,XYZ Pvt Ltd.,IN,Bangalore
+VENDOR1,Vendor1,IN,Bangalore
+VENDOR2,Vendor2,IN,Bangalore
+SA115,Supplier 115 LLC,CN,
+Z99001,Gym Supplies,GB,
+CM_VMT10E,CM Metal Vendor 10 EUR,DE,Hamburg
+CUSTOM,Indian Customs,IN,Bangalore
+PLANT4300,Plant 4300,IN,
+SWARAJ,SWARAJ,IN,
+AN-56570,India Marrt,IN,Kolkata
+AN-56567,KANNA TRADERS,IN,Mumbai
+AN-56569,Lalji Traders,IN,Bangalore
+MILLER,MILLERS,IN,Bangalore
+SL31,LA Vendor 1,AR,La Plata
+SL33,LA Vendor 3,AR,
+SA32,APJ Vendor 2,CN,Taiwan
+SL34,LA Vendor 4,AR,
+SA33,APJ Vendor 3,JP,
+SL30,LA Vendor 1,AR,La Plata
+SE32,EMEA Vendor 2,DE,Berlin
+SE31,EMEA Vendor 1,DE,Stuttgart
+SA31,APJ Vendor 1,JP,Osaka
+SA34,APJ Vendor 4,JP,
+SA30,APJ Vendor 1,CN,
+SL32,LA Vendor 2,AR,San Luis
+SENA01,Caja Colombiana de Subsidio Familia,CO,
+DE2502,Rubicon Steel & Components,DE,
+CH1222,ABC Supply Company CN,CN,
+DE1222,ABC Supply Company DE,DE,
+DE3000,C.E.B. DE,DE,
+CN2502,Rubicon Steel & Components CN,CN,
+CN1222,ABC Supply Company CN,CN,
+CN3000,C.E.B. CN,CN,
+CIN-VEN,Mr. ABC Pvt. Ltd.,IN,Bangalore
+B2BVENDOR1,B2B Vendor 1,DE,
+CML101,Contract Manufacturer 101 LLC,AR,Buenos Aires
+SL104,Supplier 104 LLC,AR,Buenos Aires
+SL102,Supplier 102 LLC,AR,Buenos Aires
+SE102,Supplier 102 GmBH,DE,Dresden
+SE104,Supplier 104 GmBH,DE,Dresden
+CME101,Contract Manufacturer 101 GmBH,DE,Dresden
+CMA101,Contract Manufacturer 101 LLC,DE,Shanghai
+SA102,Supplier 102 LLC,CN,Shanghai
+SA104,Supplier 104 LLC,CN,Shanghai
+SE105,Supplier 105 GmBH,DE,Dresden
+SA105,Supplier 105 LLC,CN,Shanghai
+SL105,Supplier 105 LLC,AR,Best Run Argentina
+CN_VN,Chinese Trading,CN,Shanghai
+SL308,Proveedor Internacional Inbound 1,VE,Valencia
+SL309,Proveedor Int Inbound 2,VE,Maracaibo
+SL301,Industria Extra,AR,Chivilcoy
+SE307,Deutsche Versand / Kassel,DE,Kassel
+SE306,Frank & Co / Dortmund,DE,Dortmund
+SE304,Verkauf GmbH / Dortmund,DE,Dortmund
+SE305,Lieferungen GmbH / Essen,DE,Essen
+SE301,August Campmann / München,DE,München
+SE302,Frei und Söhne / Nürnberg,DE,Nürnberg
+SE303,Vereinigte Industrie / Bamberg,DE,Bamberg
+CE308,Wei Guo International Inbd Vendor 1,CN,BeiJingShi
+SU308,Wei Guo International Inbd Vendor 1,CN,BeiJingShi
+SE308,Wei Guo International Inbd Vendor 1,CN,"BeiJingShi,"
+SE309,Li Shin International Inbd Vendor 2,CN,Shenzhen
+SU309,Li Shin International Inbd Vendor 2,CN,Shenzhen
+SL304,Compañia Punilla,AR,Villa Carlos Paz
+SL302,Compañia Villa,AR,Villa Mercedes
+SL307,Compañia Andean,AR,Mendoza
+SL306,Compañia San Luis,AR,San Luis
+SL303,Compañia Cuyo,AR,San Luis
+SL305,Compañia ABC,AR,Dolores
+SA307,Shijiazhuang Group,CN,Shijiazhuang
+SA303,Yangtze Ind,CN,Nanjing
+SA305,Hunan Inc,CN,Changsha
+SA306,Mega Company,CN,Zhengzhou
+SA302,Henan Ltd.,CN,Zhengzhou
+SA304,GTZ Ltd,CN,Shenzhen
+SA301,Xi'an Industries,CN,Xi'an
+SA308,Votex Ltd.,KR,Seoul
+SA309,Nakdong Company,KR,Pusan
+CM00001,C.M.L . Cash and Liquidity,DE,Berlin
+0000001058,Nordspeed GmbH,DE,Hamburg
+0000004445,Werk Hamburg (1000),DE,Hamburg
+0000012000,Büromax Bürofachhandel,DE,Frankfurt
+0000012001,Bankconsulting GmbH,DE,Frankfurt
+0000012002,Autohaus Schmidt,DE,Walldorf
+0000006001,Robert Mortimer,GB,London
+0000004446,2300,ES,
+DELTAFI00,DeltaFI & Co,DE,Hockenheim
+SRV-2,Allround Services GmbH,DE,Kaiserslautern
+SRV-3,ISG Innovative Services GmbH,DE,München
+0000001032,Wesson Ltd.,GB,Manchester
+0000099900,Schwarz Konstruktionen GmbH,DE,Walldorf
+0000001033,Walldorf Grosshandel,DE,Walldorf
+0000001013,Real Estate Agency Hamburg,DE,Hamburg
+0000001921,Global Insurances,DE,München
+T-K500C14,H.A.G. Potsdam Gr.14,DE,Potsdam
+T-K500C16,H.A.G. Potsdam Gr.16,DE,Potsdam
+T-K500C23,H.A.G. Potsdam Gr.23,DE,Potsdam
+T-K500C28,H.A.G. Potsdam Gr.28,DE,Potsdam
+T-K500C02,H.A.G. Potsdam Gr.02,DE,Potsdam
+T-K500C05,H.A.G. Potsdam Gr.05,DE,Potsdam
+T-K500C19,H.A.G. Potsdam Gr.19,DE,Potsdam
+T-K500C25,H.A.G. Potsdam Gr.25,DE,Potsdam
+T-K500C13,H.A.G. Potsdam Gr.13,DE,Potsdam
+T-K500C08,H.A.G. Potsdam Gr.08,DE,Potsdam
+T-K500C03,H.A.G. Potsdam Gr.03,DE,Potsdam
+T-K500C11,H.A.G. Potsdam Gr.11,DE,Potsdam
+T-K500C20,H.A.G. Potsdam Gr.20,DE,Potsdam
+T-K500C04,H.A.G. Potsdam Gr.04,DE,Potsdam
+T-K500C17,H.A.G. Potsdam Gr.17,DE,Potsdam
+T-K500C12,H.A.G. Potsdam Gr.12,DE,Potsdam
+T-K500C09,H.A.G. Potsdam Gr.09,DE,Potsdam
+T-K500C22,H.A.G. Potsdam Gr.22,DE,Potsdam
+T-K500C29,H.A.G. Potsdam Gr.29,DE,Potsdam
+T-K500C21,H.A.G. Potsdam Gr.21,DE,Potsdam
+T-K500C01,H.A.G. Potsdam Gr.01,DE,Potsdam
+T-K500C15,H.A.G. Potsdam Gr.15,DE,Potsdam
+T-K500C10,H.A.G. Potsdam Gr.10,DE,Potsdam
+T-K500C24,H.A.G. Potsdam Gr.24,DE,Potsdam
+T-K500C27,H.A.G. Potsdam Gr.27,DE,Potsdam
+T-K500C07,H.A.G. Potsdam Gr.07,DE,Potsdam
+T-K500C18,H.A.G. Potsdam Gr.18,DE,Potsdam
+T-K500C06,H.A.G. Potsdam Gr.06,DE,Potsdam
+T-K500C26,H.A.G. Potsdam Gr.26,DE,Potsdam
+T-K500C30,H.A.G. Potsdam Gr.30,DE,Potsdam
+T-K500D11,Bürohandel Leifritz GmbH Gr.11,DE,Köln
+T-K500D15,Bürohandel Leifritz GmbH Gr.15,DE,Köln
+T-K500D23,Bürohandel Leifritz GmbH Gr.23,DE,Köln
+T-K500D05,Bürohandel Leifritz GmbH Gr.05,DE,Köln
+T-K500D20,Bürohandel Leifritz GmbH Gr.20,DE,Köln
+T-K500D19,Bürohandel Leifritz GmbH Gr.19,DE,Köln
+T-K500D04,Bürohandel Leifritz GmbH Gr.04,DE,Köln
+T-K500D02,Bürohandel Leifritz GmbH Gr.02,DE,Köln
+T-K500D18,Bürohandel Leifritz GmbH Gr.18,DE,Köln
+T-K500D28,Bürohandel Leifritz GmbH Gr.28,DE,Köln
+T-K500D06,Bürohandel Leifritz GmbH Gr.06,DE,Köln
+T-K500D30,Bürohandel Leifritz GmbH Gr.30,DE,Köln
+T-K500D25,Bürohandel Leifritz GmbH Gr.25,DE,Köln
+T-K500D07,Bürohandel Leifritz GmbH Gr.07,DE,Köln
+T-K500D03,Bürohandel Leifritz GmbH Gr.03,DE,Köln
+T-K500D08,Bürohandel Leifritz GmbH Gr.08,DE,Köln
+T-K500D24,Bürohandel Leifritz GmbH Gr.24,DE,Köln
+T-K500D27,Bürohandel Leifritz GmbH Gr.27,DE,Köln
+T-K500D14,Bürohandel Leifritz GmbH Gr.14,DE,Köln
+T-K500D09,Bürohandel Leifritz GmbH Gr.09,DE,Köln
+T-K500D21,Bürohandel Leifritz GmbH Gr.21,DE,Köln
+T-K500D29,Bürohandel Leifritz GmbH Gr.29,DE,Köln
+T-K500D13,Bürohandel Leifritz GmbH Gr.13,DE,Köln
+T-K500D26,Bürohandel Leifritz GmbH Gr.26,DE,Köln
+T-K500D10,Bürohandel Leifritz GmbH Gr.10,DE,Köln
+T-K500D12,Bürohandel Leifritz GmbH Gr.12,DE,Köln
+T-K500D17,Bürohandel Leifritz GmbH Gr.17,DE,Köln
+T-K500D22,Bürohandel Leifritz GmbH Gr.22,DE,Köln
+T-K500D16,Bürohandel Leifritz GmbH Gr.16,DE,Köln
+T-K500D01,Bürohandel Leifritz GmbH Gr.01,DE,Köln
+T-K500E11,Elektroblitz GmbH Gr.11,DE,Frankfurt
+T-K500E22,Elektroblitz GmbH Gr.22,DE,Frankfurt
+T-K500E26,Elektroblitz GmbH Gr.26,DE,Frankfurt
+T-K500E13,Elektroblitz GmbH Gr.13,DE,Frankfurt
+T-K500E08,Elektroblitz GmbH Gr.08,DE,Frankfurt
+T-K500E10,Elektroblitz GmbH Gr.10,DE,Frankfurt
+T-K500E25,Elektroblitz GmbH Gr.25,DE,Frankfurt
+T-K500E14,Elektroblitz GmbH Gr.14,DE,Frankfurt
+T-K500E21,Elektroblitz GmbH Gr.21,DE,Frankfurt
+T-K500E05,Elektroblitz GmbH Gr.05,DE,Frankfurt
+T-K500E28,Elektroblitz GmbH Gr.28,DE,Frankfurt
+T-K500E02,Elektroblitz GmbH Gr.02,DE,Frankfurt
+T-K500E18,Elektroblitz GmbH Gr.18,DE,Frankfurt
+T-K500E30,Elektroblitz GmbH Gr.30,DE,Frankfurt
+T-K500E20,Elektroblitz GmbH Gr.20,DE,Frankfurt
+T-K500E19,Elektroblitz GmbH Gr.19,DE,Frankfurt
+T-K500E16,Elektroblitz GmbH Gr.16,DE,Frankfurt
+T-K500E04,Elektroblitz GmbH Gr.04,DE,Frankfurt
+T-K500E24,Elektroblitz GmbH Gr.24,DE,Frankfurt
+T-K500E15,Elektroblitz GmbH Gr.15,DE,Frankfurt
+T-K500E06,Elektroblitz GmbH Gr.06,DE,Frankfurt
+T-K500E27,Elektroblitz GmbH Gr.27,DE,Frankfurt
+T-K500E29,Elektroblitz GmbH Gr.29,DE,Frankfurt
+T-K500E17,Elektroblitz GmbH Gr.17,DE,Frankfurt
+T-K500E01,Elektroblitz GmbH Gr.01,DE,Frankfurt
+T-K500E09,Elektroblitz GmbH Gr.09,DE,Frankfurt
+T-K500E23,Elektroblitz GmbH Gr.23,DE,Frankfurt
+T-K500E03,Elektroblitz GmbH Gr.03,DE,Frankfurt
+T-K500E07,Elektroblitz GmbH Gr.07,DE,Frankfurt
+T-K500E12,Elektroblitz GmbH Gr.12,DE,Frankfurt
+T-K500A13,Motolux GmbH Gr.13,DE,Mannheim
+T-K500A09,Motolux GmbH Gr.09,DE,Mannheim
+T-K500A10,Motolux GmbH Gr.10,DE,Mannheim
+T-K500A15,Motolux GmbH Gr.15,DE,Mannheim
+T-K500A22,Motolux GmbH Gr.22,DE,Mannheim
+T-K500A25,Motolux GmbH Gr.25,DE,Mannheim
+T-K500A28,Motolux GmbH Gr.28,DE,Mannheim
+T-K500A26,Motolux GmbH Gr.26,DE,Mannheim
+T-K500A05,Motolux GmbH Gr.05,DE,Mannheim
+T-K500A03,Motolux GmbH Gr.03,DE,Mannheim
+T-K500A23,Motolux GmbH Gr.23,DE,Mannheim
+T-K500A21,Motolux GmbH Gr.21,DE,Mannheim
+T-K500A14,Motolux GmbH Gr.14,DE,Mannheim
+T-K500A24,Motolux GmbH Gr.24,DE,Mannheim
+T-K500A02,Motolux GmbH Gr.02,DE,Mannheim
+T-K500A30,Motolux GmbH Gr.30,DE,Mannheim
+T-K500A04,Motolux GmbH Gr.04,DE,Mannheim
+T-K500A27,Motolux GmbH Gr.27,DE,Mannheim
+T-K500A20,Motolux GmbH Gr.20,DE,Mannheim
+T-K500A16,Motolux GmbH Gr.16,DE,Mannheim
+T-K500A29,Motolux GmbH Gr.29,DE,Mannheim
+T-K500A07,Motolux GmbH Gr.07,DE,Mannheim
+T-K500A12,Motolux GmbH Gr.12,DE,Mannheim
+T-K500A18,Motolux GmbH Gr.18,DE,Mannheim
+T-K500A19,Motolux GmbH Gr.19,DE,Mannheim
+T-K500A11,Motolux GmbH Gr.11,DE,Mannheim
+T-K500A06,Motolux GmbH Gr.06,DE,Mannheim
+T-K500A17,Motolux GmbH Gr.17,DE,Mannheim
+T-K500A01,Motolux GmbH Gr.01,DE,Mannheim
+T-K500A08,Motolux GmbH Gr.08,DE,Mannheim
+T-F00A00,AC205 Vendor,DE,Heidelberg
+0000009999,IDES Lieferant,DE,Walldorf
+0000004000,Iron Power Inc.,CA,Vancover
+0000004010,Electric Engines,CA,Montreal
+0000004020,E-Tech Inc.,CA,Whitehorse
+0000001060,Chemische Werke Halle,DE,Halle
+0000001070,Poly AG,DE,Köln
+0000001012,Reihl & Müller,DE,Braunschweig
+T-K515B25,Abbot Supplies Inc.,DE,Neustadt
+T-K515B02,Abbot Supplies Inc.,DE,Neustadt
+T-K515B23,Abbot Supplies Inc.,DE,Neustadt
+T-K515B07,Abbot Supplies Inc.,DE,Neustadt
+T-K515B26,Abbot Supplies Inc.,DE,Neustadt
+T-K515B05,Abbot Supplies Inc.,DE,Neustadt
+T-K515B04,Abbot Supplies Inc.,DE,Neustadt
+T-K515B19,Abbot Supplies Inc.,DE,Neustadt
+T-K515B28,Abbot Supplies Inc.,DE,Neustadt
+T-K515B22,Abbot Supplies Inc.,DE,Neustadt
+T-K515B01,Abbot Supplies Inc.,DE,Neustadt
+T-K515B11,Abbot Supplies Inc.,DE,Neustadt
+T-K515B24,Abbot Supplies Inc.,DE,Neustadt
+T-K515B14,Abbot Supplies Inc.,DE,Neustadt
+T-K515B30,Abbot Supplies Inc.,DE,Neustadt
+T-K515B03,Abbot Supplies Inc.,DE,Neustadt
+T-K515B16,Abbot Supplies Inc.,DE,Neustadt
+T-K515B18,Abbot Supplies Inc.,DE,Neustadt
+T-K515B20,Abbot Supplies Inc.,DE,Neustadt
+T-K515B09,Abbot Supplies Inc.,DE,Neustadt
+T-K515B13,Abbot Supplies Inc.,DE,Neustadt
+T-K515B17,Abbot Supplies Inc.,DE,Neustadt
+T-K515B06,Abbot Supplies Inc.,DE,Neustadt
+T-K515B15,Abbot Supplies Inc.,DE,Neustadt
+T-K515B27,Abbot Supplies Inc.,DE,Neustadt
+T-K515B29,Abbot Supplies Inc.,DE,Neustadt
+T-K515B10,Abbot Supplies Inc.,DE,Neustadt
+T-K515B12,Abbot Supplies Inc.,DE,Neustadt
+T-K515B21,Abbot Supplies Inc.,DE,Neustadt
+T-K515B08,Abbot Supplies Inc.,DE,Neustadt
+TPLM415-16,Electronic Company,DE,Berlin
+TPLM415-03,Electronic Company,DE,Berlin
+TPLM415-26,Electronic Company,DE,Berlin
+TPLM415-29,Electronic Company,DE,Berlin
+TPLM415-11,Electronic Company,DE,Berlin
+TPLM415-17,Electronic Company,DE,Berlin
+TPLM415-21,Electronic Company,DE,Berlin
+TPLM415-09,Electronic Company,DE,Berlin
+TPLM415-18,Electronic Company,DE,Berlin
+TPLM415-05,Electronic Company,DE,Berlin
+TPLM415-23,Electronic Company,DE,Berlin
+TPLM415-04,Electronic Company,DE,Berlin
+TPLM415-08,Electronic Company,DE,Berlin
+TPLM415-10,Electronic Company,DE,Berlin
+TPLM415-00,Electronic Company,DE,Berlin
+TPLM415-19,Electronic Company,DE,Berlin
+TPLM415-27,Electronic Company,DE,Berlin
+TPLM415-07,Electronic Company,DE,Berlin
+TPLM415-13,Electronic Company,DE,Berlin
+TPLM415-20,Electronic Company,DE,Berlin
+TPLM415-02,Electronic Company,DE,Berlin
+TPLM415-28,Electronic Company,DE,Berlin
+TPLM415-06,Electronic Company,DE,Berlin
+TPLM415-22,Electronic Company,DE,Berlin
+TPLM415-24,Electronic Company,DE,Berlin
+TPLM415-01,Electronic Company,DE,Berlin
+TPLM415-12,Electronic Company,DE,Berlin
+TPLM415-25,Electronic Company,DE,Berlin
+TPLM415-14,Electronic Company,DE,Berlin
+TPLM415-15,Electronic Company,DE,Berlin
+TPLM415-30,Electronic Company,DE,Berlin
+T-K515A27,Sapsota Company Limited,DE,Nordenham
+T-K515A28,Sapsota Company Limited,DE,Nordenham
+T-K515A12,Sapsota Company Limited,DE,Nordenham
+T-K515A10,Sapsota Company Limited,DE,Nordenham
+T-K515A30,Sapsota Company Limited,DE,Nordenham
+T-K515A06,Sapsota Company Limited,DE,Nordenham
+T-K515A29,Sapsota Company Limited,DE,Nordenham
+T-K515A05,Sapsota Company Limited,DE,Nordenham
+T-K515A13,Sapsota Company Limited,DE,Nordenham
+T-K515A08,Sapsota Company Limited,DE,Nordenham
+T-K515A20,Sapsota Company Limited,DE,Nordenham
+T-K515A24,Sapsota Company Limited,DE,Nordenham
+T-K515A09,Sapsota Company Limited,DE,Nordenham
+T-K515A03,Sapsota Company Limited,DE,Nordenham
+T-K515A04,Sapsota Company Limited,DE,Nordenham
+T-K515A18,Sapsota Company Limited,DE,Nordenham
+T-K515A23,Sapsota Company Limited,DE,Nordenham
+T-K515A14,Sapsota Company Limited,DE,Nordenham
+T-K515A22,Sapsota Company Limited,DE,Nordenham
+T-K515A25,Sapsota Company Limited,DE,Nordenham
+T-K515A07,Sapsota Company Limited,DE,Nordenham
+T-K515A01,Sapsota Company Limited,DE,Nordenham
+T-K515A11,Sapsota Company Limited,DE,Nordenham
+T-K515A15,Sapsota Company Limited,DE,Nordenham
+T-K515A17,Sapsota Company Limited,DE,Nordenham
+T-K515A26,Sapsota Company Limited,DE,Nordenham
+T-K515A16,Sapsota Company Limited,DE,Nordenham
+T-K515A21,Sapsota Company Limited,DE,Nordenham
+T-K515A02,Sapsota Company Limited,DE,Nordenham
+T-K515A19,Sapsota Company Limited,DE,Nordenham
+T-K515C18,Spedition Gruber,DE,Homburg
+T-K515C29,Spedition Gruber,DE,Homburg
+T-K515C08,Spedition Gruber,DE,Homburg
+T-K515C19,Spedition Gruber,DE,Homburg
+T-K515C03,Spedition Gruber,DE,Homburg
+T-K515C06,Spedition Gruber,DE,Homburg
+T-K515C11,Spedition Gruber,DE,Homburg
+T-K515C27,Spedition Gruber,DE,Homburg
+T-K515C01,Spedition Gruber,DE,Homburg
+T-K515C02,Spedition Gruber,DE,Homburg
+T-K515C22,Spedition Gruber,DE,Homburg
+T-K515C05,Spedition Gruber,DE,Homburg
+T-K515C21,Spedition Gruber,DE,Homburg
+T-K515C26,Spedition Gruber,DE,Homburg
+T-K515C04,Spedition Gruber,DE,Homburg
+T-K515C15,Spedition Gruber,DE,Homburg
+T-K515C24,Spedition Gruber,DE,Homburg
+T-K515C07,Spedition Gruber,DE,Homburg
+T-K515C12,Spedition Gruber,DE,Homburg
+T-K515C10,Spedition Gruber,DE,Homburg
+T-K515C17,Spedition Gruber,DE,Homburg
+T-K515C16,Spedition Gruber,DE,Homburg
+T-K515C30,Spedition Gruber,DE,Homburg
+T-K515C20,Spedition Gruber,DE,Homburg
+T-K515C25,Spedition Gruber,DE,Homburg
+T-K515C28,Spedition Gruber,DE,Homburg
+T-K515C14,Spedition Gruber,DE,Homburg
+T-K515C09,Spedition Gruber,DE,Homburg
+T-K515C23,Spedition Gruber,DE,Homburg
+T-K515C13,Spedition Gruber,DE,Homburg
+TPLM410-03,Computer Box,DE,Karlsruhe
+TPLM410-19,Computer Box,DE,Karlsruhe
+TPLM410-01,Computer Box,DE,Karlsruhe
+TPLM410-17,Computer Box,DE,Karlsruhe
+TPLM410-28,Computer Box,DE,Karlsruhe
+TPLM410-00,Computer Box,DE,Karlsruhe
+TPLM410-13,Computer Box,DE,Karlsruhe
+TPLM410-11,Computer Box,DE,Karlsruhe
+TPLM410-26,Computer Box,DE,Karlsruhe
+TPLM410-04,Computer Box,DE,Karlsruhe
+TPLM410-07,Computer Box,DE,Karlsruhe
+TPLM410-27,Computer Box,DE,Karlsruhe
+TPLM410-15,Computer Box,DE,Karlsruhe
+TPLM410-08,Computer Box,DE,Karlsruhe
+TPLM410-22,Computer Box,DE,Karlsruhe
+TPLM410-24,Computer Box,DE,Karlsruhe
+TPLM410-20,Computer Box,DE,Karlsruhe
+TPLM410-09,Computer Box,DE,Karlsruhe
+TPLM410-18,Computer Box,DE,Karlsruhe
+TPLM410-02,Computer Box,DE,Karlsruhe
+TPLM410-14,Computer Box,DE,Karlsruhe
+TPLM410-29,Computer Box,DE,Karlsruhe
+TPLM410-10,Computer Box,DE,Karlsruhe
+TPLM410-05,Computer Box,DE,Karlsruhe
+TPLM410-06,Computer Box,DE,Karlsruhe
+TPLM410-16,Computer Box,DE,Karlsruhe
+TPLM410-12,Computer Box,DE,Karlsruhe
+TPLM410-23,Computer Box,DE,Karlsruhe
+TPLM410-21,Computer Box,DE,Karlsruhe
+TPLM410-30,Computer Box,DE,Karlsruhe
+TPLM410-25,Computer Box,DE,Karlsruhe
+T-K500R23,AluCast AG&Co.KG Gr.23,DE,Würzburg
+T-K500R19,AluCast AG&Co.KG Gr.19,DE,Würzburg
+T-K500R07,AluCast AG&Co.KG Gr.07,DE,Würzburg
+T-K500R06,AluCast AG&Co.KG Gr.06,DE,Würzburg
+T-K500R13,AluCast AG&Co.KG Gr.13,DE,Würzburg
+T-K500R26,AluCast AG&Co.KG Gr.26,DE,Würzburg
+T-K500R05,AluCast AG&Co.KG Gr.05,DE,Würzburg
+T-K500R25,AluCast AG&Co.KG Gr.25,DE,Würzburg
+T-K500R16,AluCast AG&Co.KG Gr.16,DE,Würzburg
+T-K500R17,AluCast AG&Co.KG Gr.17,DE,Würzburg
+T-K500R14,AluCast AG&Co.KG Gr.14,DE,Würzburg
+T-K500R15,AluCast AG&Co.KG Gr.15,DE,Würzburg
+T-K500R20,AluCast AG&Co.KG Gr.20,DE,Würzburg
+T-K500R18,AluCast AG&Co.KG Gr.18,DE,Würzburg
+T-K500R22,AluCast AG&Co.KG Gr.22,DE,Würzburg
+T-K500R11,AluCast AG&Co.KG Gr.11,DE,Würzburg
+T-K500R01,AluCast AG&Co.KG Gr.01,DE,Würzburg
+T-K500R12,AluCast AG&Co.KG Gr.12,DE,Würzburg
+T-K500R03,AluCast AG&Co.KG Gr.03,DE,Würzburg
+T-K500R09,AluCast AG&Co.KG Gr.09,DE,Würzburg
+T-K500R28,AluCast AG&Co.KG Gr.28,DE,Würzburg
+T-K500R24,AluCast AG&Co.KG Gr.24,DE,Würzburg
+T-K500R08,AluCast AG&Co.KG Gr.08,DE,Würzburg
+T-K500R27,AluCast AG&Co.KG Gr.27,DE,Würzburg
+T-K500R04,AluCast AG&Co.KG Gr.04,DE,Würzburg
+T-K500R21,AluCast AG&Co.KG Gr.21,DE,Würzburg
+T-K500R29,AluCast AG&Co.KG Gr.29,DE,Würzburg
+T-K500R10,AluCast AG&Co.KG Gr.10,DE,Würzburg
+T-K500R30,AluCast AG&Co.KG Gr.30,DE,Würzburg
+T-K500R02,AluCast AG&Co.KG Gr.02,DE,Würzburg
+0000001010,Sunny Electronics GmbH,DE,Stuttgart
+0000001009,Parts & Pipes,DE,Zuffenhausen
+R3004,Mingh wah,CN,Honkong
+VEND-99,Paper Suplies,DE,Berlin
+VEND-98,Sports Distributors,DE,Hockenheim
+0000023456,No Copyright,DE,Oslo
+0000012345,El-Retur,NO,Oslo
+0000005030,上吉産業株式会社　本社,JP,千代田区
+0000005060,上吉産業株式会社　横浜支店,JP,横浜市港北区
+0000005061,上吉産業株式会社　名古屋支店,JP,名古屋市中村区
+0000004453,"DC Tai’an, CN",CN,Tai'an
+0000004450,"DC Santa Fé, Argentina",AR,
+0000004451,"DC Mendoza, Argentina",AR,
+0000004452,DC HongKong,CN,HongKong
+0000004448,plant 1500,DE,
+0000004449,Plant 1600,DE,
+0000005051,vendor master 5051,JP,
+0000005050,vendor master 5050,JP,
+0000006720,Petromin Lubricating Oil Company,SA,
+0000006650,Saudi Company for Electronics,SA,
+0000006760,Arabian Auto Agency,SA,
+0000006752,Al Jazeera Materials,SA,
+0000006704,Offices tools and Equipments,SA,
+0000006740,"Arabic Computer Systems, ltd.",SA,
+0000006750,Saudi Cable Company,SA,
+0000006730,"National Pipe Co., Ltd.",SA,
+0000006660,Saudi Ceramics,SA,
+0000006780,Carrier Saudi Arabia,SA,
+0000006701,IBS for integrated building systems,SA,
+0000006710,Saudi Cement,SA,
+0000006703,Ericson,SA,
+0000006702,Hawai Technology Egypt,SA,
+0000006690,National Shipping Company,SA,
+0000006711,Egy plast Al Suwaidi,SA,
+0000006700,Almarai,SA,
+0000006709,Egyptian - German for electrical sy,SA,
+0000006705,Giza Systems - Alkan,SA,
+0000006706,Egyptian company for digital distri,SA,
+0000006680,Riyadh Cables,SA,
+0000006707,Al Abd,SA,
+0000006770,Al Ruwaite Contracting Est.,SA,
+0000006670,Saudi Telecom,SA,
+0000006708,Al Ez Rolling,SA,
+0000006751,Al Arabi Trading,SA,
+0000006712,Arabian international trade,SA,
+0000003955,Super Packageing C2F,CN,Shanghai
+0000080000,SVR Valiant Diamond,CA,Toronto
+0000005200,Intershop,DE,Berlin
+0000008000,Intershop Online Katalog,DE,Berlin
+0000005500,Online Store,DE,Walldorf
+0000005210,Abele Intershop,DE,Stuttgart
+DOC-KRED89,DOC-KRED89,DE,Sinsheim
+0000001022,Max´Grosshandel,DE,Hamburg
+0000001008,Motor constructions Ltd.,GB,Leeds
+0000001021,Noe´Tech Company AG,DE,Freiburg
+0000099910,Meyer Elektro-Installation,DE,Lorch
+0000001020,Grosshandel-Baden USA,DE,Manheim
+T-K540A00,Allround Services GmbH,DE,Kaiserslautem
+T-K540B00,ISG Innovative Services GmbH,DE,Munchen
+0000000605,Intercompany Resources Canada,CA,
+0000000603,Intercompany Resources US,CA,
+0000000604,Intercompany Resources to Belgium,CA,
+0000004444,London Supplying Plant,GB,London
+0000000010,Dupont de la Rivière,FR,Paris
+0000001999,Test,AT,
+T-K500E00,Elektroblitz GmbH Gr.00,DE,
+T-K500C00,H.A.G. Potsdam Gr.00,DE,Potsdam
+T-K500D00,Bürohandel Leifritz GmbH Gr.00,DE,Köln
+T-K510Z01,Sundry GmbH,DE,Rüdesheim
+T-K500A00,Motolux GmbH Gr.00,DE,Mannheim
+T-K540A18,Allround Services G,DE,Kaiserslautern
+T-K540A11,Allround Services G,DE,Kaiserslautern
+T-K540A01,Allround Services G,DE,Kaiserslautern
+T-K540A12,Allround Services G,DE,Kaiserslautern
+T-K540A07,Allround Services G,DE,Kaiserslautern
+T-K540A02,Allround Services G,DE,Kaiserslautern
+T-K540A06,Allround Services G,DE,Kaiserslautern
+T-K540A03,Allround Services G,DE,Kaiserslautern
+T-K540A04,Allround Services G,DE,Kaiserslautern
+T-K540A15,Allround Services G,DE,Kaiserslautern
+T-K540A13,Allround Services G,DE,Kaiserslautern
+T-K540A05,Allround Services G,DE,Kaiserslautern
+T-K540A19,Allround Services G,DE,Kaiserslautern
+T-K540A08,Allround Services G,DE,Kaiserslautern
+T-K540A10,Allround Services G,DE,Kaiserslautern
+T-K540A20,Allround Services G,DE,Kaiserslautern
+T-K540A17,Allround Services G,DE,Kaiserslautern
+T-K540A14,Allround Services G,DE,Kaiserslautern
+T-K540A09,Allround Services G,DE,Kaiserslautern
+T-K540A16,Allround Services G,DE,Kaiserslautern
+T-K540B04,ISG Innovative Services GmbH,DE,München
+T-K540B07,ISG Innovative Services GmbH,DE,München
+T-K540B12,ISG Innovative Services GmbH,DE,München
+T-K540B18,ISG Innovative Services GmbH,DE,München
+T-K540B11,ISG Innovative Services GmbH,DE,München
+T-K540B03,ISG Innovative Services GmbH,DE,München
+T-K540B02,ISG Innovative Services GmbH,DE,München
+T-K540B06,ISG Innovative Services GmbH,DE,München
+T-K540B09,ISG Innovative Services GmbH,DE,München
+T-K540B16,ISG Innovative Services GmbH,DE,München
+T-K540B13,ISG Innovative Services GmbH,DE,München
+T-K540B20,ISG Innovative Services GmbH,DE,München
+T-K540B19,ISG Innovative Services GmbH,DE,München
+T-K540B15,ISG Innovative Services GmbH,DE,München
+T-K540B10,ISG Innovative Services GmbH,DE,München
+T-K540B01,ISG Innovative Services GmbH,DE,München
+T-K540B08,ISG Innovative Services GmbH,DE,München
+T-K540B05,ISG Innovative Services GmbH,DE,München
+T-K540B14,ISG Innovative Services GmbH,DE,München
+T-K540B17,ISG Innovative Services GmbH,DE,München
+0000049982,Plant EWM APJ Multi tenant 1,CN,
+0000049984,Plant EWM LA Multi tenant 1,AR,
+0000049983,Plant EWM EMEA Multi tenant 1,DE,
+0000003458,Meyers Real Estate AG,DE,Frankfurt am Main
+0000004256,Meyers Real Estate AG,DE,Frankfurt am Main
+0000004257,Polis Immobilien Fuehrer,DE,Frankfurt am Main
+0000004258,Hoffmann Immobilien AG,DE,Frankfurt am Main
+0000099999,Ogden Manufacturing,DE,Naperville
+0000001121,Wagner Spenglerei & Rohrbau,DE,Freiburg
+0000001150,P + S Technik,DE,Osnabrück
+0000001152,Camelot,DE,Bonn
+0000001106,SPEDITRANS Transport GmbH,DE,Enkenbach
+0000001061,Neotech GmbH,DE,Weilerbach
+0000001120,Rohrbau-Dienstleistungs GmbH,DE,Mannheim
+UE-1001,Rieger,DE,Fürth
+UE-1000,Müller,DE,Schriesheim
+T-K521D25,Kreutzschmi,DE,Leipzig
+T-K521D27,Kreutzschmi,DE,Leipzig
+T-K521D24,Kreutzschmi,DE,Leipzig
+T-K521D29,Kreutzschmi,DE,Leipzig
+T-K521D28,Kreutzschmi,DE,Leipzig
+T-K521D23,Kreutzschmi,DE,Leipzig
+T-K521D26,Kreutzschmi,DE,Leipzig
+T-K521D21,Kreutzschmi,DE,Leipzig
+T-K521D22,Kreutzschmi,DE,Leipzig
+T-K521D30,Kreutzschmi,DE,Leipzig
+T-K521B21,Nordspeed GmbH,DE,Hamburg
+T-K521B22,Nordspeed GmbH,DE,Hamburg
+T-K521B30,Nordspeed GmbH,DE,Hamburg
+T-K521B23,Nordspeed GmbH,DE,Hamburg
+T-K521B24,Nordspeed GmbH,DE,Hamburg
+T-K521B27,Nordspeed GmbH,DE,Hamburg
+T-K521B29,Nordspeed GmbH,DE,Hamburg
+T-K521B25,Nordspeed GmbH,DE,Hamburg
+T-K521B26,Nordspeed GmbH,DE,Hamburg
+T-K521B28,Nordspeed GmbH,DE,Hamburg
+T-K521C23,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C29,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C21,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C22,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C30,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C24,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C25,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C27,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C26,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C28,Jotachi Deutschland AG,DE,Braunschweig
+T-K521E25,Grosshandel-Baden,DE,Mannheim
+T-K521E29,Grosshandel-Baden,DE,Mannheim
+T-K521E27,Grosshandel-Baden,DE,Mannheim
+T-K521E23,Grosshandel-Baden,DE,Mannheim
+T-K521E30,Grosshandel-Baden,DE,Mannheim
+T-K521E24,Grosshandel-Baden,DE,Mannheim
+T-K521E28,Grosshandel-Baden,DE,Mannheim
+T-K521E22,Grosshandel-Baden,DE,Mannheim
+T-K521E26,Grosshandel-Baden,DE,Mannheim
+T-K521E21,Grosshandel-Baden,DE,Mannheim
+T-K521A23,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A24,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A28,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A30,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A22,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A25,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A29,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A27,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A26,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A21,Humpert u. Töchter GmbH,DE,Rosenheim
+TPLM-99,Sapsota Company Limited,DE,Nordenham
+T-K521D04,Kreutzschmi,DE,Leipzig
+T-K521D07,Kreutzschmi,DE,Leipzig
+T-K521D03,Kreutzschmi,DE,Leipzig
+T-K521D02,Kreutzschmi,DE,Leipzig
+T-K521D13,Kreutzschmi,DE,Leipzig
+T-K521D15,Kreutzschmi,DE,Leipzig
+T-K521D20,Kreutzschmi,DE,Leipzig
+T-K521D10,Kreutzschmi,DE,Leipzig
+T-K521D09,Kreutzschmi,DE,Leipzig
+T-K521D00,Kreutzschmi,DE,Leipzig
+T-K521D12,Kreutzschmi,DE,Leipzig
+T-K521D01,Kreutzschmi,DE,Leipzig
+T-K521D05,Kreutzschmi,DE,Leipzig
+T-K521D17,Kreutzschmi,DE,Leipzig
+T-K521D08,Kreutzschmi,DE,Leipzig
+T-K521D16,Kreutzschmi,DE,Leipzig
+T-K521D11,Kreutzschmi,DE,Leipzig
+T-K521D19,Kreutzschmi,DE,Leipzig
+T-K521D06,Kreutzschmi,DE,Leipzig
+T-K521D14,Kreutzschmi,DE,Leipzig
+T-K521D18,Kreutzschmi,DE,Leipzig
+T-K521B05,Nordspeed GmbH,DE,Hamburg
+T-K521B06,Nordspeed GmbH,DE,Hamburg
+T-K521B08,Nordspeed GmbH,DE,Hamburg
+T-K521B03,Nordspeed GmbH,DE,Hamburg
+T-K521B07,Nordspeed GmbH,DE,Hamburg
+T-K521B11,Nordspeed GmbH,DE,Hamburg
+T-K521B18,Nordspeed GmbH,DE,Hamburg
+T-K521B04,Nordspeed GmbH,DE,Hamburg
+T-K521B17,Nordspeed GmbH,DE,Hamburg
+T-K521B19,Nordspeed GmbH,DE,Hamburg
+T-K521B10,Nordspeed GmbH,DE,Hamburg
+T-K521B16,Nordspeed GmbH,DE,Hamburg
+T-K521B09,Nordspeed GmbH,DE,Hamburg
+T-K521B20,Nordspeed GmbH,DE,Hamburg
+T-K521B00,Nordspeed GmbH,DE,Hamburg
+T-K521B14,Nordspeed GmbH,DE,Hamburg
+T-K521B15,Nordspeed GmbH,DE,Hamburg
+T-K521B01,Nordspeed GmbH,DE,Hamburg
+T-K521B12,Nordspeed GmbH,DE,Hamburg
+T-K521B13,Nordspeed GmbH,DE,Hamburg
+T-K521B02,Nordspeed GmbH,DE,Hamburg
+T-K521C00,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C02,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C13,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C11,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C03,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C16,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C09,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C20,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C18,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C12,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C07,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C06,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C14,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C19,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C04,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C17,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C01,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C08,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C15,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C10,Jotachi Deutschland AG,DE,Braunschweig
+T-K521C05,Jotachi Deutschland AG,DE,Braunschweig
+T-K521E19,Grosshandel-Baden,DE,Mannheim
+T-K521E01,Grosshandel-Baden,DE,Mannheim
+T-K521E15,Grosshandel-Baden,DE,Mannheim
+T-K521E07,Grosshandel-Baden,DE,Mannheim
+T-K521E18,Grosshandel-Baden,DE,Mannheim
+T-K521E09,Grosshandel-Baden,DE,Mannheim
+T-K521E16,Grosshandel-Baden,DE,Mannheim
+T-K521E17,Grosshandel-Baden,DE,Mannheim
+T-K521E13,Grosshandel-Baden,DE,Mannheim
+T-K521E04,Grosshandel-Baden,DE,Mannheim
+T-K521E08,Grosshandel-Baden,DE,Mannheim
+T-K521E12,Grosshandel-Baden,DE,Mannheim
+T-K521E03,Grosshandel-Baden,DE,Mannheim
+T-K521E20,Grosshandel-Baden,DE,Mannheim
+T-K521E02,Grosshandel-Baden,DE,Mannheim
+T-K521E05,Grosshandel-Baden,DE,Mannheim
+T-K521E06,Grosshandel-Baden,DE,Mannheim
+T-K521E10,Grosshandel-Baden,DE,Mannheim
+T-K521E11,Grosshandel-Baden,DE,Mannheim
+T-K521E14,Grosshandel-Baden,DE,Mannheim
+T-K521E00,Grosshandel-Baden,DE,Mannheim
+T-K521A01,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A17,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A16,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A07,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A15,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A18,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A03,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A06,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A19,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A00,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A08,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A04,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A02,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A09,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A12,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A20,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A05,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A11,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A10,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A13,Humpert u. Töchter GmbH,DE,Rosenheim
+T-K521A14,Humpert u. Töchter GmbH,DE,Rosenheim
+CM_VCOFIX,CM Conc Vendor FIX EUR,US,PRATTVILLE
+CED,CED,US,PRATTVILLE
+RPPC_1,RPPC_1,US,PRATTVILLE
+YHTS_NAT,National Semiconductor,US,PRATTVILLE
+YHTS_ANA,Analog Devices,US,PRATTVILLE
+YHTS_MOL,Molex Inc.,US,PRATTVILLE
+YHTS_ONS,ON Semiconductor,US,PRATTVILLE
+YHTS_FAI,Fairchild Semiconductor,US,PRATTVILLE
+INDSUP,Industrial Suppliers,US,PRATTVILLE
+R3001,Omnimum Inc.,US,LOS ANGELES
+0000007000,Grainger Online Shop,US,LOS ANGELES
+0000005300,Grainger Online Shop,US,LOS ANGELES
+0000001003,Gusswerk US,US,HARBOR CITY
+T-K515D05,Electronic Components Distributor,US,FOSTER CITY
+T-K515D13,Electronic Components Distributor,US,FOSTER CITY
+T-K515D01,Electronic Components Distributor,US,FOSTER CITY
+T-K515D09,Electronic Components Distributor,US,FOSTER CITY
+T-K515D12,Electronic Components Distributor,US,FOSTER CITY
+T-K515D19,Electronic Components Distributor,US,FOSTER CITY
+T-K515D14,Electronic Components Distributor,US,FOSTER CITY
+T-K515D26,Electronic Components Distributor,US,FOSTER CITY
+T-K515D10,Electronic Components Distributor,US,FOSTER CITY
+T-K515D27,Electronic Components Distributor,US,FOSTER CITY
+T-K515D03,Electronic Components Distributor,US,FOSTER CITY
+T-K515D16,Electronic Components Distributor,US,FOSTER CITY
+T-K515D20,Electronic Components Distributor,US,FOSTER CITY
+T-K515D15,Electronic Components Distributor,US,FOSTER CITY
+T-K515D18,Electronic Components Distributor,US,FOSTER CITY
+T-K515D29,Electronic Components Distributor,US,FOSTER CITY
+T-K515D02,Electronic Components Distributor,US,FOSTER CITY
+T-K515D08,Electronic Components Distributor,US,FOSTER CITY
+T-K515D17,Electronic Components Distributor,US,FOSTER CITY
+T-K515D28,Electronic Components Distributor,US,FOSTER CITY
+T-K515D04,Electronic Components Distributor,US,FOSTER CITY
+T-K515D07,Electronic Components Distributor,US,FOSTER CITY
+T-K515D25,Electronic Components Distributor,US,FOSTER CITY
+T-K515D30,Electronic Components Distributor,US,FOSTER CITY
+T-K515D11,Electronic Components Distributor,US,FOSTER CITY
+T-K515D21,Electronic Components Distributor,US,FOSTER CITY
+T-K515D06,Electronic Components Distributor,US,FOSTER CITY
+T-K515D23,Electronic Components Distributor,US,FOSTER CITY
+T-K515D24,Electronic Components Distributor,US,FOSTER CITY
+T-K515D22,Electronic Components Distributor,US,FOSTER CITY
+CM_VMT09,CM Alu Can Supplier,US,santa fe
+SU322,C. M Vendor 2,US,Denver
+0000005550,IDES Consumer Products,US,DENVER
+0000008081,Exploration Vendor,US,WILMINGTON
+0000008080,E&P Supplier,US,WILMINGTON
+0000009010,Digi storage,US,ATLANTA
+0000009025,JC Inc,US,ATLANTA
+0000005597,IDES_SINGAPORE_XCBL_VENDOR,US,ATLANTA
+0000005596,Singapore_IDES_MM_VENDOR,US,ATLANTA
+0000005595,IDES SUS Vendor,US,ATLANTA
+0000005599,VEST Supplier,US,ATLANTA
+0000005560,IDES Furnitures Inc.,US,ATLANTA
+0000005594,IDES SUS_ERS VENDOR,US,ATLANTA
+0000003021,MOBILE Inc.,US,ATLANTA
+CM_VAG03,CM Agriculture Vendor 03,US,chicago
+V-05,BSI2011-Vendor-05,US,CHICAGO
+V-02,BSI2011-Vendor-02,US,CHICAGO
+CEP-CR-03,Panalpina,US,Chicago
+0000010019,Karen Mitchell,US,CHICAGO
+CM_VAG01,CM Agriculture Vendor 01,US,new york
+SU101,Supplier 101 Inc.,US,NEW YORK
+CMU102,Contract Manufactureer,US,NEW YORK
+V-03,BSI2011-Vendor-03,US,NEW YORK
+V-04,BSI2011-Vendor-04,US,NEW YORK
+SU102,Supplier 102 Inc.,US,New York
+CMU101,Contract Manufacturer 101 GmBH,US,New York
+SU104,Supplier 104 Inc.,US,New York
+SU105,Supplier 105 Inc.,US,NEW YORK
+US_VN,US Trading,US,New York
+TEST124,test124,US,New York
+0000005800,IBM,US,New York
+0000009065,BMX Ltd.,US,New York
+0000009085,LOUIS Corporation,US,New York
+0000009075,Zillion Technologies,US,New York
+0000009060,ASP CORPORATION,US,NEW YORK
+0000009095,Bettle Inc,US,New York
+0000009022,MM Electrical,US,New York
+0000009020,Papyrus Corp,US,New York
+0000009019,SHI,US,New York
+0000009011,CMX,US,New York
+0000009013,Caterpillar Inc,US,New York
+0000009012,CDW,US,New York
+0000009018,Fastenal,US,New York
+0000009014,OneSteel Limited,US,New York
+0000009016,Mantell Office,US,New York
+0000009017,Chemicals Direct,US,New York
+0000009021,Office Depot,US,New York
+0000008001,Requisite Online,US,NEW YORK
+0000005000,Aspect Online,US,NEW YORK
+0000005100,Harbinger Online Shops,US,NEW YORK
+0000009042,SCF Supplier 3,US,NEW YORK
+0000009041,SCF Supplier2,US,NEW YORK
+0000004254,McDaniels Realty Corporation,US,NEW YORK
+0000003015,White&Black Inc,US,New York
+0000005571,Amazon,US,NEW YORK
+0000005592,MH Electronics,US,NEW YORK
+0000005603,CAFS IT SERVICES,US,G P O
+0000005575,M&E Inc.,US,NEW YORK
+TE-AC06,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC07,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC25,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC08,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC16,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC28,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC03,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC00,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC10,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC17,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC12,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC18,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC11,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC13,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC29,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC14,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC04,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC19,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC02,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC27,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC05,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC21,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC23,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC22,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC30,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC01,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC24,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC09,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC26,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC15,American Sports Distributor Gr. 76,US,PHILADELPHIA
+TE-AC20,American Sports Distributor Gr. 76,US,PHILADELPHIA
+0000001500,EASTERN SUPPLY CO.,US,PHILADELPHIA
+VEND-97,American Sports Distributor,US,PHILADELPHIA
+0000021213,Big Electronics US,US,Philadelphia
+0000004250,Washington Realty Corporation,US,PHILADELPHIA
+0000004251,Anderson Realty Corporation,US,PHILADELPHIA
+0000004252,Hummer & Smith Properties,US,PHILADELPHIA
+0000005604,KensleyTechnologies,US,PHILADELPHIA
+0000003430,Universal Chemical Stabilizer Co.,US,PHILADELPHIA
+0000005589,IDES DIGSIG,US,PHILADELPHIA
+0000003511,PA Electronics,US,PHILADELPHIA
